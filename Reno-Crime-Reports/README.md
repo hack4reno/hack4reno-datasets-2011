@@ -23,7 +23,7 @@ I Report number
 
 ** CAD CSV File Column Key**  
 A call number  
-B CFS Code
+B CFS Code  
 C  Date  
 D time hhmmss  
 E agency  
