@@ -1,7 +1,7 @@
 ## Data Summary  
   ---------------------------------------
-**Filename(s):** _RenoPoliceCalls_April-Oct2011.csv_ 
-**Sourced From:** _City of Reno_
+**Filename(s):** _RenoPoliceCalls_April-Oct2011.csv_  
+**Sourced From:** _City of Reno_  
 
 ** Data Summary: **  
 PRIORITY  
