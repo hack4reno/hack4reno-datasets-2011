@@ -3,7 +3,7 @@
 **Filename(s):** _RenoPoliceCalls_April-Oct2011.csv_  
 **Sourced From:** _City of Reno_  
 
-** Data Summary: **  
+**Data Summary:**  
 PRIORITY  
 CALL_TYPE  
 JURISDICTION  
@@ -15,5 +15,5 @@ ONSCENE_TIME
 CLEAR_TIME  
 DISPOSITION  
 
-** Example Data: **  
+**Example Data:**  
 "3","SUSPV","RP","RN","4/1/2011","00:51:52","01:16:50","01:22:20","01:32:06","UTL"  
