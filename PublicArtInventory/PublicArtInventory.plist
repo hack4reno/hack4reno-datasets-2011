@@ -1,0 +1,4458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>artPiece</key>
+		<string>Wa-Pai-Shone-Tribute to Washoe Paiute &amp; Shoshone</string>
+		<key>artistFirstName</key>
+		<string>Peter</string>
+		<key>artistLastName</key>
+		<string>Wolf Toth</string>
+		<key>budget</key>
+		<integer>25000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.519159000000002</real>
+		<key>location</key>
+		<string>Idlewild Park California Building - Idlewild Drive</string>
+		<key>longitude</key>
+		<real>-119.835284</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1900 Idlewild Dr</string>
+		<key>type</key>
+		<string>Sculpture</string>
+		<key>year</key>
+		<integer>1986</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>"Creatures of Nevada"</string>
+		<key>artistFirstName</key>
+		<string>John</string>
+		<key>artistLastName</key>
+		<string>Battenburg</string>
+		<key>budget</key>
+		<integer>90000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Riverwalk</string>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Relief Sculpture</string>
+		<key>year</key>
+		<integer>1992</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Road Totems of Fish</string>
+		<key>artistFirstName</key>
+		<string>Roberto</string>
+		<key>artistLastName</key>
+		<string>Salas</string>
+		<key>budget</key>
+		<integer>5000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.48817979305727</real>
+		<key>location</key>
+		<string>Miguel Ribera Park</string>
+		<key>longitude</key>
+		<real>-119.78046064587483</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>3905 Neil Road</string>
+		<key>type</key>
+		<string>Sculpture</string>
+		<key>year</key>
+		<integer>1993</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Collaborative Design of Parking Gallery Art Elements</string>
+		<key>artistFirstName</key>
+		<string>Vicki</string>
+		<key>artistLastName</key>
+		<string>Scurri</string>
+		<key>budget</key>
+		<integer>33000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526159999999997</real>
+		<key>location</key>
+		<string></string>
+		<key>longitude</key>
+		<real>-119.81162999999999</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>Corner of First and Center Streets</string>
+		<key>type</key>
+		<string>Architectural Design Elements</string>
+		<key>year</key>
+		<integer>1993</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>"In Search of Equilibrium"</string>
+		<key>artistFirstName</key>
+		<string>Mikel</string>
+		<key>artistLastName</key>
+		<string>Lerxundi</string>
+		<key>budget</key>
+		<integer>10000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.522212468500001</real>
+		<key>location</key>
+		<string>Southside School</string>
+		<key>longitude</key>
+		<real>-119.80887846100001</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>190 E. Liberty Street</string>
+		<key>type</key>
+		<string>Sculpture</string>
+		<key>year</key>
+		<integer>1994</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Idlewild Kiddyland Arch</string>
+		<key>artistFirstName</key>
+		<string>Lisa</string>
+		<key>artistLastName</key>
+		<string>Kaslow</string>
+		<key>budget</key>
+		<integer>12975</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.519159000000002</real>
+		<key>location</key>
+		<string>Idlewild Park</string>
+		<key>longitude</key>
+		<real>-119.835284</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1900 Idlewild Dr</string>
+		<key>type</key>
+		<string>Lions Arch</string>
+		<key>year</key>
+		<integer>1996</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Tribute to Native Americans - Paiute Tribe</string>
+		<key>artistFirstName</key>
+		<string>Chris</string>
+		<key>artistLastName</key>
+		<string>Atcheson</string>
+		<key>budget</key>
+		<integer>17000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.519343032614529</real>
+		<key>location</key>
+		<string>Summit Ridge Park</string>
+		<key>longitude</key>
+		<real>-119.84789570152144</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>4560 Summit Ridge Drive</string>
+		<key>type</key>
+		<string>Sculpture</string>
+		<key>year</key>
+		<integer>2000</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Songbirds</string>
+		<key>artistFirstName</key>
+		<string>Pam</string>
+		<key>artistLastName</key>
+		<string>Parenti</string>
+		<key>budget</key>
+		<integer>17000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.560855384776232</real>
+		<key>location</key>
+		<string>Melody Lane Park</string>
+		<key>longitude</key>
+		<real>-119.78217036626548</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>2505 Melody Ln</string>
+		<key>type</key>
+		<string>Art Bench</string>
+		<key>year</key>
+		<integer>2000</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Playground Sculptures</string>
+		<key>artistFirstName</key>
+		<string>Mary</string>
+		<key>artistLastName</key>
+		<string>Fuller</string>
+		<key>budget</key>
+		<integer>16000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.52408086264991</real>
+		<key>location</key>
+		<string>Rainbow Ridge Park</string>
+		<key>longitude</key>
+		<real>-119.87424485439985</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1355 Rainbow Ridge Road</string>
+		<key>type</key>
+		<string>Sculpture</string>
+		<key>year</key>
+		<integer>2001</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>“Gallop-a-Pace” Sculpture</string>
+		<key>artistFirstName</key>
+		<string>Charles</string>
+		<key>artistLastName</key>
+		<string>Ginnever</string>
+		<key>budget</key>
+		<integer>225000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.523931419494915</real>
+		<key>location</key>
+		<string>Bicentennial Park</string>
+		<key>longitude</key>
+		<real>-119.81911124817984</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>10 Ralston Street</string>
+		<key>type</key>
+		<string>Sculpture</string>
+		<key>year</key>
+		<integer>2001</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Granite Sculpture and Kiosk</string>
+		<key>artistFirstName</key>
+		<string>Chris</string>
+		<key>artistLastName</key>
+		<string>Atcheson</string>
+		<key>budget</key>
+		<integer>18000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.538535000000003</real>
+		<key>location</key>
+		<string>Seminary Park</string>
+		<key>longitude</key>
+		<real>-119.81894699999999</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1101 Sierra Street</string>
+		<key>type</key>
+		<string>Sculpture</string>
+		<key>year</key>
+		<integer>2002</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Swimming Bench</string>
+		<key>artistFirstName</key>
+		<string>Marcella, Megan</string>
+		<key>artistLastName</key>
+		<string>Yeates</string>
+		<key>budget</key>
+		<integer>16500</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.533189536352943</real>
+		<key>location</key>
+		<string>Valleywood Park</string>
+		<key>longitude</key>
+		<real>-119.8919050183323</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>6555 Valley Wood Dr.</string>
+		<key>type</key>
+		<string>Art Bench</string>
+		<key>year</key>
+		<integer>2002</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Mira Loma Skate Park Sculpture</string>
+		<key>artistFirstName</key>
+		<string>Chris</string>
+		<key>artistLastName</key>
+		<string>Atcheson</string>
+		<key>budget</key>
+		<integer>4000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.492539999999998</real>
+		<key>location</key>
+		<string>Mira Loma Skatepark</string>
+		<key>longitude</key>
+		<real>-119.747985</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>3000 S. McCarran Blvd</string>
+		<key>type</key>
+		<string>Sculpure</string>
+		<key>year</key>
+		<integer>2003</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Mira Loma Skate Park Sculpture</string>
+		<key>artistFirstName</key>
+		<string>Chris</string>
+		<key>artistLastName</key>
+		<string>Atcheson</string>
+		<key>budget</key>
+		<integer>4000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.492530000000002</real>
+		<key>location</key>
+		<string>Mira Loma Skatepark</string>
+		<key>longitude</key>
+		<real>-119.748141</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>3001 S. McCarran Blvd</string>
+		<key>type</key>
+		<string>Sculpure</string>
+		<key>year</key>
+		<integer>2003</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Mira Loma Skate Park Sculpture</string>
+		<key>artistFirstName</key>
+		<string>Chris</string>
+		<key>artistLastName</key>
+		<string>Atcheson</string>
+		<key>budget</key>
+		<integer>4000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.492540908142942</real>
+		<key>location</key>
+		<string>Mira Loma Skatepark</string>
+		<key>longitude</key>
+		<real>-119.74779230365132</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>3002 S. McCarran Blvd</string>
+		<key>type</key>
+		<string>Sculpure</string>
+		<key>year</key>
+		<integer>2003</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Mira Loma Skate Park Sculpture</string>
+		<key>artistFirstName</key>
+		<string>Chris</string>
+		<key>artistLastName</key>
+		<string>Atcheson</string>
+		<key>budget</key>
+		<integer>4000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.492532448405939</real>
+		<key>location</key>
+		<string>Mira Loma Skatepark</string>
+		<key>longitude</key>
+		<real>-119.74830767189816</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>3003 S. McCarran Blvd</string>
+		<key>type</key>
+		<string>Sculpure</string>
+		<key>year</key>
+		<integer>2003</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Mira Loma Skate Park Sculpture</string>
+		<key>artistFirstName</key>
+		<string>Chris</string>
+		<key>artistLastName</key>
+		<string>Atcheson</string>
+		<key>budget</key>
+		<integer>4000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.492495150567187</real>
+		<key>location</key>
+		<string>Mira Loma Skatepark</string>
+		<key>longitude</key>
+		<real>-119.74779200073797</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>3004 S. McCarran Blvd</string>
+		<key>type</key>
+		<string>Sculpure</string>
+		<key>year</key>
+		<integer>2003</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Arts District Banners</string>
+		<key>artistFirstName</key>
+		<string>Dave</string>
+		<key>artistLastName</key>
+		<string>Boyer</string>
+		<key>budget</key>
+		<integer>40000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Art District Light Posts</string>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Kinetic Metal Banners</string>
+		<key>year</key>
+		<integer>2003</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>"Grimes Point Rock"</string>
+		<key>artistFirstName</key>
+		<string>Vic</string>
+		<key>artistLastName</key>
+		<string>Chevillon</string>
+		<key>budget</key>
+		<integer>5000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.525055649152264</real>
+		<key>location</key>
+		<string>West Street Plaza</string>
+		<key>longitude</key>
+		<real>-119.81545437287191</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>200 W. First St</string>
+		<key>type</key>
+		<string>Sculpture</string>
+		<key>year</key>
+		<integer>2005</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>"Buffalo Mother"</string>
+		<key>artistFirstName</key>
+		<string>Vic</string>
+		<key>artistLastName</key>
+		<string>Chevillon</string>
+		<key>budget</key>
+		<integer>5000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.525055649152264</real>
+		<key>location</key>
+		<string>West Street Plaza</string>
+		<key>longitude</key>
+		<real>-119.81545437287191</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>200 W. First St</string>
+		<key>type</key>
+		<string>Sculpture</string>
+		<key>year</key>
+		<integer>2005</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>"Luminous Balloon Seeds"</string>
+		<key>artistFirstName</key>
+		<string>Cork</string>
+		<key>artistLastName</key>
+		<string>Marcheschi</string>
+		<key>budget</key>
+		<integer>558000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Downtown Events Center</string>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Lighting Sculpture</string>
+		<key>year</key>
+		<integer>2005</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>"Mountaintop"</string>
+		<key>artistFirstName</key>
+		<string>Brad</string>
+		<key>artistLastName</key>
+		<string>Rude</string>
+		<key>budget</key>
+		<integer>25000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.521701999999998</real>
+		<key>location</key>
+		<string>McKinley Arts &amp; Culture Center</string>
+		<key>longitude</key>
+		<real>-119.82452000000001</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>925 Riverside Dr</string>
+		<key>type</key>
+		<string>Sculpture</string>
+		<key>year</key>
+		<integer>2005</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>"Veletas"</string>
+		<key>artistFirstName</key>
+		<string>Christie</string>
+		<key>artistLastName</key>
+		<string>Beniston</string>
+		<key>budget</key>
+		<integer>18000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.542327999999998</real>
+		<key>location</key>
+		<string>Las Brisas Park</string>
+		<key>longitude</key>
+		<real>-119.88603500000001</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>5950 Las Brisas</string>
+		<key>type</key>
+		<string>Sculpture</string>
+		<key>year</key>
+		<integer>2006</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>"Alfresco"</string>
+		<key>artistFirstName</key>
+		<string>Jorge</string>
+		<key>artistLastName</key>
+		<string>Blanco</string>
+		<key>budget</key>
+		<integer>17003</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>University Ridge Park</string>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>990 South University Ridge Park Loop</string>
+		<key>type</key>
+		<string>Sculpture</string>
+		<key>year</key>
+		<integer>2006</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>"Aspen Grove"</string>
+		<key>artistFirstName</key>
+		<string>Troy</string>
+		<key>artistLastName</key>
+		<string>Corliss</string>
+		<key>budget</key>
+		<integer>52580</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.542579819634767</real>
+		<key>location</key>
+		<string>Terrace Sports Complex</string>
+		<key>longitude</key>
+		<real>-119.89065462806653</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>2525 Robb Drive</string>
+		<key>type</key>
+		<string>Sculpture</string>
+		<key>year</key>
+		<integer>2006</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>"Svirgola"</string>
+		<key>artistFirstName</key>
+		<string>Panziera and Garofalo</string>
+		<key>artistLastName</key>
+		<string>Dominic and Daniela</string>
+		<key>budget</key>
+		<integer>12000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.43432</real>
+		<key>location</key>
+		<string>Center Creek Park</string>
+		<key>longitude</key>
+		<real>-119.73784000000001</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1595 Wilbur May Parkway</string>
+		<key>type</key>
+		<string>Art Bench</string>
+		<key>year</key>
+		<integer>2006</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>"Society"</string>
+		<key>artistFirstName</key>
+		<string>Panziera and Garofalo</string>
+		<key>artistLastName</key>
+		<string>Dominic and Daniela</string>
+		<key>budget</key>
+		<integer>113000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.523981999999997</real>
+		<key>location</key>
+		<string>Reno Municipal Court</string>
+		<key>longitude</key>
+		<real>-119.813929</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 South Sierra St</string>
+		<key>type</key>
+		<string>Mosaic Floor</string>
+		<key>year</key>
+		<integer>2006</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>"Feather"  ReTrac Bench</string>
+		<key>artistFirstName</key>
+		<string>Jeff</string>
+		<key>artistLastName</key>
+		<string>Erickson</string>
+		<key>budget</key>
+		<integer>12000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>RETRAC Corridor</string>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Art Bench, ReTRAC</string>
+		<key>year</key>
+		<integer>2006</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>"Sun, Wind, Water, Life"</string>
+		<key>artistFirstName</key>
+		<string>Carol</string>
+		<key>artistLastName</key>
+		<string>Foldvary-Anderson</string>
+		<key>budget</key>
+		<integer>3500</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Arts and Culture District Sidewalks</string>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Sidewalk Stamps</string>
+		<key>year</key>
+		<integer>2006</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>"In the Chips" ReTrac Bench</string>
+		<key>artistFirstName</key>
+		<string>Eileen</string>
+		<key>artistLastName</key>
+		<string>Gay</string>
+		<key>budget</key>
+		<integer>12000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>RETRAC Corridor</string>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Art Bench, ReTRAC</string>
+		<key>year</key>
+		<integer>2006</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>"Rose Waterfall"</string>
+		<key>artistFirstName</key>
+		<string>Eileen</string>
+		<key>artistLastName</key>
+		<string>Gay</string>
+		<key>budget</key>
+		<integer>12000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.519159000000002</real>
+		<key>location</key>
+		<string>Idlewild Park Rose Garden</string>
+		<key>longitude</key>
+		<real>-119.835284</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1900 Idlewild Drive</string>
+		<key>type</key>
+		<string></string>
+		<key>year</key>
+		<integer>2006</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>"Call of the Panther"</string>
+		<key>artistFirstName</key>
+		<string>Eileen</string>
+		<key>artistLastName</key>
+		<string>Gay</string>
+		<key>budget</key>
+		<integer>18943</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.588479999999997</real>
+		<key>location</key>
+		<string>Panther Valley Park</string>
+		<key>longitude</key>
+		<real>-119.8184</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>850 Link Lane</string>
+		<key>type</key>
+		<string>Sculpture</string>
+		<key>year</key>
+		<integer>2007</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>"Bridged Leaves"</string>
+		<key>artistFirstName</key>
+		<string>Mackie</string>
+		<key>artistLastName</key>
+		<string>Jack</string>
+		<key>budget</key>
+		<integer>444603</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>ReTRAC Corridor Bridges</string>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>ReTRAC Sculptural Elements</string>
+		<key>year</key>
+		<integer>2006</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>"Redirect Red Five" ReTrac Bench</string>
+		<key>artistFirstName</key>
+		<string>Bo</string>
+		<key>artistLastName</key>
+		<string>Kempf</string>
+		<key>budget</key>
+		<integer>12000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>RETRAC Corridor</string>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Art Bench, ReTRAC</string>
+		<key>year</key>
+		<integer>2006</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>"You should have been here"</string>
+		<key>artistFirstName</key>
+		<string>Cork</string>
+		<key>artistLastName</key>
+		<string>Marcheschi</string>
+		<key>budget</key>
+		<integer>97700</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.52538508904324</real>
+		<key>location</key>
+		<string></string>
+		<key>longitude</key>
+		<real>-119.81258910868468</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>10 N. Virginia St.</string>
+		<key>type</key>
+		<string>Sculpture</string>
+		<key>year</key>
+		<integer>2006</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Untitled ReTrac Bench</string>
+		<key>artistFirstName</key>
+		<string>Randall</string>
+		<key>artistLastName</key>
+		<string>Shiroma</string>
+		<key>budget</key>
+		<integer>12000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>RETRAC Corridor</string>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Art Bench, ReTRAC</string>
+		<key>year</key>
+		<integer>2006</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Untitled ReTrac Bench</string>
+		<key>artistFirstName</key>
+		<string>Randall</string>
+		<key>artistLastName</key>
+		<string>Shiroma</string>
+		<key>budget</key>
+		<integer>12000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>RETRAC Corridor</string>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Art Bench, ReTRAC</string>
+		<key>year</key>
+		<integer>2006</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Untitled ReTrac Bench</string>
+		<key>artistFirstName</key>
+		<string>Benjamin</string>
+		<key>artistLastName</key>
+		<string>Victor</string>
+		<key>budget</key>
+		<integer>12000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>RETRAC Corridor</string>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Art Bench, ReTRAC</string>
+		<key>year</key>
+		<integer>2006</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>"Community, Diversity and Independence"</string>
+		<key>artistFirstName</key>
+		<string>Benjamin</string>
+		<key>artistLastName</key>
+		<string>Victor</string>
+		<key>budget</key>
+		<integer>160000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.529440000000001</real>
+		<key>location</key>
+		<string>Wells Avenue Streetscape</string>
+		<key>longitude</key>
+		<real>-119.80324</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>Wells Ave</string>
+		<key>type</key>
+		<string>Sculptures</string>
+		<key>year</key>
+		<integer>2006</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Untitled ReTrac Bench</string>
+		<key>artistFirstName</key>
+		<string>Jim &amp; Joe</string>
+		<key>artistLastName</key>
+		<string>Zlokovich &amp; Zuccarini</string>
+		<key>budget</key>
+		<integer>12000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>RETRAC Corridor</string>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Art Bench, ReTRAC</string>
+		<key>year</key>
+		<integer>2006</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>"Waltz Forms"</string>
+		<key>artistFirstName</key>
+		<string>Cork</string>
+		<key>artistLastName</key>
+		<string>Marcheschi</string>
+		<key>budget</key>
+		<integer>365000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.530123106086151</real>
+		<key>location</key>
+		<string>Downtown Events Center Ballroom</string>
+		<key>longitude</key>
+		<real>-119.81309434370843</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>401 N. Center St</string>
+		<key>type</key>
+		<string>Lighting Sculpture</string>
+		<key>year</key>
+		<integer>2007</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Tree of Life Gates</string>
+		<key>artistFirstName</key>
+		<string>Tom</string>
+		<key>artistLastName</key>
+		<string>Turman</string>
+		<key>budget</key>
+		<integer>12000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.519159000000002</real>
+		<key>location</key>
+		<string>Idlewild Park Rose Garden</string>
+		<key>longitude</key>
+		<real>-119.835284</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1900 Idlewild Drive</string>
+		<key>type</key>
+		<string>Security Gates</string>
+		<key>year</key>
+		<integer>2007</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Deer</string>
+		<key>artistFirstName</key>
+		<string>Mike</string>
+		<key>artistLastName</key>
+		<string>Boyce</string>
+		<key>budget</key>
+		<integer>30000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Kietzke Roundabout</string>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Sculpture</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Gift of Flight</string>
+		<key>artistFirstName</key>
+		<string>Dave</string>
+		<key>artistLastName</key>
+		<string>Boyer</string>
+		<key>budget</key>
+		<integer>75000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Robb Drive Roundabout</string>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Sculpture</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Wind Dancers</string>
+		<key>artistFirstName</key>
+		<string>Dave</string>
+		<key>artistLastName</key>
+		<string>Boyer</string>
+		<key>budget</key>
+		<integer>15000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.43432</real>
+		<key>location</key>
+		<string>Horizon View Park</string>
+		<key>longitude</key>
+		<real>-119.73784000000001</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>9675 Wilbur May Parkway</string>
+		<key>type</key>
+		<string>Sculpture</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Dog Bike Rack</string>
+		<key>artistFirstName</key>
+		<string>Tommy</string>
+		<key>artistLastName</key>
+		<string>Shearer</string>
+		<key>budget</key>
+		<integer>650</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.521701999999998</real>
+		<key>location</key>
+		<string>McKinley Arts &amp; Culture Center</string>
+		<key>longitude</key>
+		<real>-119.82452000000001</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>925 Riverside Dr</string>
+		<key>type</key>
+		<string>Bikerack</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Dog Bike Rack</string>
+		<key>artistFirstName</key>
+		<string>Tommy</string>
+		<key>artistLastName</key>
+		<string>Shearer</string>
+		<key>budget</key>
+		<integer>650</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.522212468500001</real>
+		<key>location</key>
+		<string>Southside School</string>
+		<key>longitude</key>
+		<real>-119.80887846100001</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>190 East Liberty St</string>
+		<key>type</key>
+		<string>Bikerack</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Cog Bike Rack</string>
+		<key>artistFirstName</key>
+		<string>Tommy</string>
+		<key>artistLastName</key>
+		<string>Shearer</string>
+		<key>budget</key>
+		<integer>650</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Library</string>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Bikerack</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Cog Bike Rack</string>
+		<key>artistFirstName</key>
+		<string>Tommy</string>
+		<key>artistLastName</key>
+		<string>Shearer</string>
+		<key>budget</key>
+		<integer>650</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.525055649152264</real>
+		<key>location</key>
+		<string>West Street Plaza</string>
+		<key>longitude</key>
+		<real>-119.81545437287191</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>200 W. First St</string>
+		<key>type</key>
+		<string>Bikerack</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Easle Bike Rack</string>
+		<key>artistFirstName</key>
+		<string>Tommy</string>
+		<key>artistLastName</key>
+		<string>Shearer</string>
+		<key>budget</key>
+		<integer>650</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.5259</real>
+		<key>location</key>
+		<string>Virginia and 1st</string>
+		<key>longitude</key>
+		<real>-119.81294</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1st St and Virginia St</string>
+		<key>type</key>
+		<string>Bikerack</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Easle Bike Rack</string>
+		<key>artistFirstName</key>
+		<string>Tommy</string>
+		<key>artistLastName</key>
+		<string>Shearer</string>
+		<key>budget</key>
+		<integer>650</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.523277749199352</real>
+		<key>location</key>
+		<string>Barbara Bennett Park</string>
+		<key>longitude</key>
+		<real>-119.81867787924064</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>400 Island Avenue</string>
+		<key>type</key>
+		<string>Bikerack</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>YAW Train Bike Rack</string>
+		<key>artistFirstName</key>
+		<string></string>
+		<key>artistLastName</key>
+		<string>YAW</string>
+		<key>budget</key>
+		<integer>2500</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526899999999998</real>
+		<key>location</key>
+		<string>Virginia &amp; 2nd</string>
+		<key>longitude</key>
+		<real>-119.81327</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>2nd St and Virginia St</string>
+		<key>type</key>
+		<string>Bikerack</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>YAW Fish Bike Rack</string>
+		<key>artistFirstName</key>
+		<string></string>
+		<key>artistLastName</key>
+		<string>YAW</string>
+		<key>budget</key>
+		<integer>2500</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Riverwalk</string>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Bikerack</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>YAW Jester Bike Rack</string>
+		<key>artistFirstName</key>
+		<string></string>
+		<key>artistLastName</key>
+		<string>YAW</string>
+		<key>budget</key>
+		<integer>6000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526064255500003</real>
+		<key>location</key>
+		<string>West Street Market</string>
+		<key>longitude</key>
+		<real>-119.815382347</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>148 West Street</string>
+		<key>type</key>
+		<string>Bikerack</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>4 Cycle Hitch</string>
+		<key>artistFirstName</key>
+		<string></string>
+		<key>artistLastName</key>
+		<string>Reno Bike Project</string>
+		<key>budget</key>
+		<integer>3000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.5259</real>
+		<key>location</key>
+		<string>1st and Virginia</string>
+		<key>longitude</key>
+		<real>-119.81294</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1st St and Virginia St</string>
+		<key>type</key>
+		<string>Bikerack</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>West Street Market Gates</string>
+		<key>artistFirstName</key>
+		<string>Paolo</string>
+		<key>artistLastName</key>
+		<string>Cividino</string>
+		<key>budget</key>
+		<integer>12000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526064255500003</real>
+		<key>location</key>
+		<string>West Street Market</string>
+		<key>longitude</key>
+		<real>-119.815382347</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>148 West Street</string>
+		<key>type</key>
+		<string>Security Gates</string>
+		<key>year</key>
+		<integer>2009</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Recyclables Container</string>
+		<key>artistFirstName</key>
+		<string>Paolo</string>
+		<key>artistLastName</key>
+		<string>Cividino</string>
+		<key>budget</key>
+		<integer>5000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526064255500003</real>
+		<key>location</key>
+		<string>West Street Market</string>
+		<key>longitude</key>
+		<real>-119.815382347</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>148 West Street</string>
+		<key>type</key>
+		<string>Recycle Container</string>
+		<key>year</key>
+		<integer>2009</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Dances in Flight</string>
+		<key>artistFirstName</key>
+		<string>Pam</string>
+		<key>artistLastName</key>
+		<string>Parenti</string>
+		<key>budget</key>
+		<integer>34346</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.422902867408354</real>
+		<key>location</key>
+		<string>Damonte Ranch Park</string>
+		<key>longitude</key>
+		<real>-119.73367500000001</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1950 Steamboat Parkway</string>
+		<key>type</key>
+		<string>Sculpture</string>
+		<key>year</key>
+		<integer>2009</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Rainbow Trout Tree</string>
+		<key>artistFirstName</key>
+		<string>Eileen</string>
+		<key>artistLastName</key>
+		<string>Gay</string>
+		<key>budget</key>
+		<integer>24000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.519159000000002</real>
+		<key>location</key>
+		<string>Idlewild Pond</string>
+		<key>longitude</key>
+		<real>-119.835284</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1900 Idlewild Dr</string>
+		<key>type</key>
+		<string>Sculpture</string>
+		<key>year</key>
+		<integer>2009</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Treespire</string>
+		<key>artistFirstName</key>
+		<string>Tobasco</string>
+		<key>artistLastName</key>
+		<string>Mills</string>
+		<key>budget</key>
+		<integer>20000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.533621915469737</real>
+		<key>location</key>
+		<string>Whitaker Park</string>
+		<key>longitude</key>
+		<real>-119.82378540840055</real>
+		<key>placement</key>
+		<string>Exterior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>550 University Terrace</string>
+		<key>type</key>
+		<string>Steel Sculpture &amp; Bench</string>
+		<key>year</key>
+		<integer>2009</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Art Marker</string>
+		<key>artistFirstName</key>
+		<string></string>
+		<key>artistLastName</key>
+		<string>Cathexis</string>
+		<key>budget</key>
+		<integer>2000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>Concrete Marker</string>
+		<key>year</key>
+		<integer>1995</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Art Marker</string>
+		<key>artistFirstName</key>
+		<string></string>
+		<key>artistLastName</key>
+		<string>Cathexis</string>
+		<key>budget</key>
+		<integer>2000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.525899000000003</real>
+		<key>location</key>
+		<string>National Auto Museum</string>
+		<key>longitude</key>
+		<real>-119.809072</real>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>10 Lake Street</string>
+		<key>type</key>
+		<string>Concrete Marker</string>
+		<key>year</key>
+		<integer>1995</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Art Marker</string>
+		<key>artistFirstName</key>
+		<string></string>
+		<key>artistLastName</key>
+		<string>Cathexis</string>
+		<key>budget</key>
+		<integer>2000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.524031000000001</real>
+		<key>location</key>
+		<string>Lear Theater</string>
+		<key>longitude</key>
+		<real>-119.820086</real>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>528 W 1st St</string>
+		<key>type</key>
+		<string>Concrete Marker</string>
+		<key>year</key>
+		<integer>1995</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Art Marker</string>
+		<key>artistFirstName</key>
+		<string></string>
+		<key>artistLastName</key>
+		<string>Cathexis</string>
+		<key>budget</key>
+		<integer>2000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.521701999999998</real>
+		<key>location</key>
+		<string>McKinley Arts &amp; Culture Center</string>
+		<key>longitude</key>
+		<real>-119.82452000000001</real>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>925 Riverside Dr</string>
+		<key>type</key>
+		<string>Concrete Marker</string>
+		<key>year</key>
+		<integer>1995</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Art Marker</string>
+		<key>artistFirstName</key>
+		<string></string>
+		<key>artistLastName</key>
+		<string>Cathexis</string>
+		<key>budget</key>
+		<integer>2000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.520885880999998</real>
+		<key>location</key>
+		<string>Nevada Museum of Art</string>
+		<key>longitude</key>
+		<real>-119.813265195</real>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>160 W Liberty St</string>
+		<key>type</key>
+		<string>Concrete Marker</string>
+		<key>year</key>
+		<integer>1995</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Art Marker</string>
+		<key>artistFirstName</key>
+		<string></string>
+		<key>artistLastName</key>
+		<string>Cathexis</string>
+		<key>budget</key>
+		<integer>2000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.524234999999997</real>
+		<key>location</key>
+		<string>Pioneer Center for Performing Arts</string>
+		<key>longitude</key>
+		<real>-119.811522</real>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>100 S. Virginia St.</string>
+		<key>type</key>
+		<string>Concrete Marker</string>
+		<key>year</key>
+		<integer>1995</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Art Marker</string>
+		<key>artistFirstName</key>
+		<string></string>
+		<key>artistLastName</key>
+		<string>Cathexis</string>
+		<key>budget</key>
+		<integer>2000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.524433548499999</real>
+		<key>location</key>
+		<string>Sierra Arts Foundation</string>
+		<key>longitude</key>
+		<real>-119.812648826</real>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>17 S. Virginia St</string>
+		<key>type</key>
+		<string>Concrete Marker</string>
+		<key>year</key>
+		<integer>1995</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Art Marker</string>
+		<key>artistFirstName</key>
+		<string></string>
+		<key>artistLastName</key>
+		<string>Cathexis</string>
+		<key>budget</key>
+		<integer>2000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.525055649152264</real>
+		<key>location</key>
+		<string>West Street Plaza</string>
+		<key>longitude</key>
+		<real>-119.81545437287191</real>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>200 W. First St</string>
+		<key>type</key>
+		<string>Concrete Marker</string>
+		<key>year</key>
+		<integer>1995</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Art Marker</string>
+		<key>artistFirstName</key>
+		<string></string>
+		<key>artistLastName</key>
+		<string>Cathexis</string>
+		<key>budget</key>
+		<integer>2000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>Concrete Marker</string>
+		<key>year</key>
+		<integer>1995</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Art Marker</string>
+		<key>artistFirstName</key>
+		<string></string>
+		<key>artistLastName</key>
+		<string>Cathexis</string>
+		<key>budget</key>
+		<integer>2000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>Concrete Marker</string>
+		<key>year</key>
+		<integer>1995</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Mural</string>
+		<key>artistFirstName</key>
+		<string></string>
+		<key>artistLastName</key>
+		<string>YAW</string>
+		<key>budget</key>
+		<integer>5000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.523277749199352</real>
+		<key>location</key>
+		<string>Barbara Bennett Park</string>
+		<key>longitude</key>
+		<real>-119.81867787924064</real>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>400 Island Ave.</string>
+		<key>type</key>
+		<string>Mural</string>
+		<key>year</key>
+		<integer>1999</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>"Greek Legends"</string>
+		<key>artistFirstName</key>
+		<string></string>
+		<key>artistLastName</key>
+		<string>YAW</string>
+		<key>budget</key>
+		<integer>5000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.512977132591644</real>
+		<key>location</key>
+		<string>Plumas Park</string>
+		<key>longitude</key>
+		<real>-119.8135884</real>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>475 Monroe St</string>
+		<key>type</key>
+		<string>Mural</string>
+		<key>year</key>
+		<integer>1999</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Mural</string>
+		<key>artistFirstName</key>
+		<string></string>
+		<key>artistLastName</key>
+		<string>YAW</string>
+		<key>budget</key>
+		<integer>5000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.541113000000003</real>
+		<key>location</key>
+		<string>NE Community Center</string>
+		<key>longitude</key>
+		<real>-119.808909</real>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1301 Valley Rd.</string>
+		<key>type</key>
+		<string>Mural</string>
+		<key>year</key>
+		<integer>2000</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Mural</string>
+		<key>artistFirstName</key>
+		<string>John</string>
+		<key>artistLastName</key>
+		<string>Coleman</string>
+		<key>budget</key>
+		<integer>20000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.519159000000002</real>
+		<key>location</key>
+		<string>Idlewild Pool - Idlewild Drive</string>
+		<key>longitude</key>
+		<real>-119.835284</real>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1900 Idlewild Dr</string>
+		<key>type</key>
+		<string>Mural</string>
+		<key>year</key>
+		<integer>2003</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Hole in One Mural</string>
+		<key>artistFirstName</key>
+		<string></string>
+		<key>artistLastName</key>
+		<string>YAW</string>
+		<key>budget</key>
+		<integer>2000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Plumas Tennis Court Mural adj to Golf Course</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Mural</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Mans Head - Yellow</string>
+		<key>artistFirstName</key>
+		<string></string>
+		<key>artistLastName</key>
+		<string>Arteclettica</string>
+		<key>budget</key>
+		<integer>1000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Virginia and Maple</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Traffic Signal Box</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Yellow - Latin</string>
+		<key>artistFirstName</key>
+		<string></string>
+		<key>artistLastName</key>
+		<string>Arteclettica</string>
+		<key>budget</key>
+		<integer>1000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Maple and Sierra</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Traffic Signal Box</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Long Train</string>
+		<key>artistFirstName</key>
+		<string></string>
+		<key>artistLastName</key>
+		<string>Arteclettica</string>
+		<key>budget</key>
+		<integer>1000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Center and 1st</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Traffic Signal Box</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Green Monster</string>
+		<key>artistFirstName</key>
+		<string></string>
+		<key>artistLastName</key>
+		<string>Arteclettica</string>
+		<key>budget</key>
+		<integer>1000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Lake and 2nd</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Traffic Signal Box</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>The Kiss</string>
+		<key>artistFirstName</key>
+		<string></string>
+		<key>artistLastName</key>
+		<string>Arteclettica</string>
+		<key>budget</key>
+		<integer>1000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Virginia and Mill</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Traffic Signal Box</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Horse &amp; Bike Theme</string>
+		<key>artistFirstName</key>
+		<string>Vladimir</string>
+		<key>artistLastName</key>
+		<string>Bajenov</string>
+		<key>budget</key>
+		<integer>650</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>West and 4th</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Traffic Signal Box</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Rodeo Bull</string>
+		<key>artistFirstName</key>
+		<string>Rodney</string>
+		<key>artistLastName</key>
+		<string>Herrera</string>
+		<key>budget</key>
+		<integer>650</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>4th and Arlington</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Traffic Signal Box</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Air Races</string>
+		<key>artistFirstName</key>
+		<string>Rodney</string>
+		<key>artistLastName</key>
+		<string>Herrera</string>
+		<key>budget</key>
+		<integer>650</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>4th and Sierra</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Traffic Signal Box</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Man in Desert</string>
+		<key>artistFirstName</key>
+		<string>Rodney</string>
+		<key>artistLastName</key>
+		<string>Herrera</string>
+		<key>budget</key>
+		<integer>650</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>4th and Washington</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Traffic Signal Box</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Continued Mural - People/River</string>
+		<key>artistFirstName</key>
+		<string>Devin</string>
+		<key>artistLastName</key>
+		<string>Hosselkus</string>
+		<key>budget</key>
+		<integer>1000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Virginia &amp; 1st Street</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Traffic Signal Box</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Reno Arches</string>
+		<key>artistFirstName</key>
+		<string>Devin</string>
+		<key>artistLastName</key>
+		<string>Hosselkus</string>
+		<key>budget</key>
+		<integer>1000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Sierra &amp; 5th</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Traffic Signal Box</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>People/ River - Small</string>
+		<key>artistFirstName</key>
+		<string>Devin</string>
+		<key>artistLastName</key>
+		<string>Hosselkus</string>
+		<key>budget</key>
+		<integer>1000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>West and Commercial</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Traffic Signal Box</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>The Misfits</string>
+		<key>artistFirstName</key>
+		<string>Ann</string>
+		<key>artistLastName</key>
+		<string>O'Lear</string>
+		<key>budget</key>
+		<integer>1000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Virginia &amp; 2nd Street</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Traffic Signal Box</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Dog w/ Ball on Nose</string>
+		<key>artistFirstName</key>
+		<string>Ann</string>
+		<key>artistLastName</key>
+		<string>O'Lear</string>
+		<key>budget</key>
+		<integer>1000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Sierra  &amp; 6th</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Traffic Signal Box</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Bowling Ball with Flames</string>
+		<key>artistFirstName</key>
+		<string>Ann</string>
+		<key>artistLastName</key>
+		<string>O'Lear</string>
+		<key>budget</key>
+		<integer>1000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Center and Plaza</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Traffic Signal Box</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Poker Table</string>
+		<key>artistFirstName</key>
+		<string>Ann</string>
+		<key>artistLastName</key>
+		<string>O'Lear</string>
+		<key>budget</key>
+		<integer>1000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Virginia and Commercial</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Traffic Signal Box</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Deck of Cards</string>
+		<key>artistFirstName</key>
+		<string>Ann</string>
+		<key>artistLastName</key>
+		<string>O'Lear</string>
+		<key>budget</key>
+		<integer>1000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Virginia and 3rd Street</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Traffic Signal Box</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Blues theme</string>
+		<key>artistFirstName</key>
+		<string>Larissa</string>
+		<key>artistLastName</key>
+		<string>Sokolova</string>
+		<key>budget</key>
+		<integer>650</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Arlington and 1st</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Traffic Signal Box</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Saloon theme</string>
+		<key>artistFirstName</key>
+		<string>Larissa</string>
+		<key>artistLastName</key>
+		<string>Sokolova</string>
+		<key>budget</key>
+		<integer>650</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Lake and East 1st</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Traffic Signal Box</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Skateboarder</string>
+		<key>artistFirstName</key>
+		<string>Larissa</string>
+		<key>artistLastName</key>
+		<string>Sokolova</string>
+		<key>budget</key>
+		<integer>650</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>7th St between Virginia &amp; Center</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Traffic Signal Box</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Couple overlooking Water</string>
+		<key>artistFirstName</key>
+		<string>Larissa</string>
+		<key>artistLastName</key>
+		<string>Sokolova</string>
+		<key>budget</key>
+		<integer>650</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Sierra &amp; 6th</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Traffic Signal Box</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Bank</string>
+		<key>artistFirstName</key>
+		<string>Larissa</string>
+		<key>artistLastName</key>
+		<string>Sokolova</string>
+		<key>budget</key>
+		<integer>650</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Liberty and Virginia</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Traffic Signal Box</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Bear Tumbling</string>
+		<key>artistFirstName</key>
+		<string>Kristin</string>
+		<key>artistLastName</key>
+		<string>Steedman</string>
+		<key>budget</key>
+		<integer>650</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Liberty and Center</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Traffic Signal Box</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Otto and Bear</string>
+		<key>artistFirstName</key>
+		<string>Kristin</string>
+		<key>artistLastName</key>
+		<string>Steedman</string>
+		<key>budget</key>
+		<integer>650</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Arlington and California</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Traffic Signal Box</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Reno- Shapes (80's)?</string>
+		<key>artistFirstName</key>
+		<string></string>
+		<key>artistLastName</key>
+		<string>Youth ArtWorks</string>
+		<key>budget</key>
+		<integer>1000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Center and 6th Street</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Traffic Signal Box</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Library - Books</string>
+		<key>artistFirstName</key>
+		<string></string>
+		<key>artistLastName</key>
+		<string>Youth ArtWorks</string>
+		<key>budget</key>
+		<integer>1000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Center and Liberty</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Traffic Signal Box</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Black/ Blue - Inside Train?</string>
+		<key>artistFirstName</key>
+		<string></string>
+		<key>artistLastName</key>
+		<string>Youth ArtWorks</string>
+		<key>budget</key>
+		<integer>1000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Sierra and 3rd</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Traffic Signal Box</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Slot Machine</string>
+		<key>artistFirstName</key>
+		<string></string>
+		<key>artistLastName</key>
+		<string>Youth ArtWorks</string>
+		<key>budget</key>
+		<integer>1000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Ralston and 3rd</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Traffic Signal Box</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Car Theme</string>
+		<key>artistFirstName</key>
+		<string>Jim</string>
+		<key>artistLastName</key>
+		<string>Zlokovich</string>
+		<key>budget</key>
+		<integer>650</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Valley and 4th</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Traffic Signal Box</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Dragon w / Bowling Pins</string>
+		<key>artistFirstName</key>
+		<string>Vladimir</string>
+		<key>artistLastName</key>
+		<string>Bajenov</string>
+		<key>budget</key>
+		<integer>650</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Center and 4th Street</string>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Traffic Signal Box</string>
+		<key>year</key>
+		<integer>2009</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Storytime</string>
+		<key>artistFirstName</key>
+		<string>Larissa</string>
+		<key>artistLastName</key>
+		<string>Sokolova</string>
+		<key>budget</key>
+		<integer>2000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.530265377000816</real>
+		<key>location</key>
+		<string>Community Assistance Center</string>
+		<key>longitude</key>
+		<real>-119.80899375734055</real>
+		<key>placement</key>
+		<string>Temporary</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>335 Record Street</string>
+		<key>type</key>
+		<string>Mural</string>
+		<key>year</key>
+		<integer>2009</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Island</string>
+		<key>artistFirstName</key>
+		<string>Danae</string>
+		<key>artistLastName</key>
+		<string>Anderson</string>
+		<key>budget</key>
+		<integer>3500</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 7</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>oil on board</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Bodie, 2004</string>
+		<key>artistFirstName</key>
+		<string>Bill</string>
+		<key>artistLastName</key>
+		<string>Bliss</string>
+		<key>budget</key>
+		<integer>700</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 15</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>watercolor on paper, framed</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Bodie Commode (2003)</string>
+		<key>artistFirstName</key>
+		<string>Bill</string>
+		<key>artistLastName</key>
+		<string>Bliss</string>
+		<key>budget</key>
+		<integer>350</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 15</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>watercolor on paper, framed</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Fulstone Barn (2003)</string>
+		<key>artistFirstName</key>
+		<string>Bill</string>
+		<key>artistLastName</key>
+		<string>Bliss</string>
+		<key>budget</key>
+		<integer>700</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 15</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>watercolor on paper, framed</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Urban Lawn Project</string>
+		<key>artistFirstName</key>
+		<string>Dean</string>
+		<key>artistLastName</key>
+		<string>Burton</string>
+		<key>budget</key>
+		<integer>2000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 15</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>3 photographs: acrylic and aluminum, framed:</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Long Division</string>
+		<key>artistFirstName</key>
+		<string>Catherine</string>
+		<key>artistLastName</key>
+		<string>Courtenaye</string>
+		<key>budget</key>
+		<integer>5000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 2</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>oil on panel</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Untitled (Fish)</string>
+		<key>artistFirstName</key>
+		<string>Anne</string>
+		<key>artistLastName</key>
+		<string>Dederer</string>
+		<key>budget</key>
+		<integer>250</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 3</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>giclee print mixed media,   framed</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>First Storm</string>
+		<key>artistFirstName</key>
+		<string>Robert</string>
+		<key>artistLastName</key>
+		<string>Desmond</string>
+		<key>budget</key>
+		<integer>1900</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 7</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>color print, framed</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>High Sierra Twilight</string>
+		<key>artistFirstName</key>
+		<string>Robert</string>
+		<key>artistLastName</key>
+		<string>Desmond</string>
+		<key>budget</key>
+		<integer>1900</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 7</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>color print, framed</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Untitled #4405</string>
+		<key>artistFirstName</key>
+		<string>Laddie John</string>
+		<key>artistLastName</key>
+		<string>Dill</string>
+		<key>budget</key>
+		<integer>6000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 15</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>concrete, glass and oxides</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Surface 7</string>
+		<key>artistFirstName</key>
+		<string>Russell</string>
+		<key>artistLastName</key>
+		<string>Dudley</string>
+		<key>budget</key>
+		<integer>1500</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 4</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>ultra chrome print, framed</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Arrangement in Red, Green and Gray</string>
+		<key>artistFirstName</key>
+		<string>Ingrid</string>
+		<key>artistLastName</key>
+		<string>Evans</string>
+		<key>budget</key>
+		<integer>2400</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 4</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>acrylic on handmade paper on canvas</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Incursions # 3</string>
+		<key>artistFirstName</key>
+		<string>Ingrid</string>
+		<key>artistLastName</key>
+		<string>Evans</string>
+		<key>budget</key>
+		<integer>3800</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 3</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>acrylic on handmade paper on canvas</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Ascension #1 (Lily)</string>
+		<key>artistFirstName</key>
+		<string>Tom</string>
+		<key>artistLastName</key>
+		<string>Gilbertson</string>
+		<key>budget</key>
+		<integer>800</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 15</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>watercolor on paper, framed</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Procession #2 (For Peggy)</string>
+		<key>artistFirstName</key>
+		<string>Tom</string>
+		<key>artistLastName</key>
+		<string>Gilbertson</string>
+		<key>budget</key>
+		<integer>2200</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 2</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>watercolor and mixed media on paper, framed</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Jan. 1997, Old Reno Arch</string>
+		<key>artistFirstName</key>
+		<string>Peter</string>
+		<key>artistLastName</key>
+		<string>Goin</string>
+		<key>budget</key>
+		<integer>2500</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 8</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>chromogenic development print, framed</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Stillwater National Wildlife Refuge</string>
+		<key>artistFirstName</key>
+		<string>Peter</string>
+		<key>artistLastName</key>
+		<string>Goin</string>
+		<key>budget</key>
+		<integer>6000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 5</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>chromogenic development print (triptych), framed</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Untitled (Rabbit)</string>
+		<key>artistFirstName</key>
+		<string>Drake</string>
+		<key>artistLastName</key>
+		<string>Gossi</string>
+		<key>budget</key>
+		<integer>250</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 3</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>mixed media on paper, framed</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Remuda #6, IL Ranch, NV</string>
+		<key>artistFirstName</key>
+		<string>Adam</string>
+		<key>artistLastName</key>
+		<string>Jahiel</string>
+		<key>budget</key>
+		<integer>3600</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 15</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>platinum print, 8/15, framed</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Reno 7 - You Are Here</string>
+		<key>artistFirstName</key>
+		<string>Jim</string>
+		<key>artistLastName</key>
+		<string>McCormick</string>
+		<key>budget</key>
+		<integer>2800</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 3</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>mixed media, framed</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Hey Bill, I Erased Gold Hill, Almost</string>
+		<key>artistFirstName</key>
+		<string>Walter</string>
+		<key>artistLastName</key>
+		<string>McNamara</string>
+		<key>budget</key>
+		<integer>700</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 7</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>collage, framed</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Chapter VIII</string>
+		<key>artistFirstName</key>
+		<string>Maurice</string>
+		<key>artistLastName</key>
+		<string>Nespor</string>
+		<key>budget</key>
+		<integer>3900</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall,  Floor 7</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>collage on panel, framed</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Modulation</string>
+		<key>artistFirstName</key>
+		<string>Maurice</string>
+		<key>artistLastName</key>
+		<string>Nespor</string>
+		<key>budget</key>
+		<integer>3000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 15</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>collage on panel, framed</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>1997 Flood, Looking Across Sierra St. Bridge</string>
+		<key>artistFirstName</key>
+		<string>Goin</string>
+		<key>artistLastName</key>
+		<string>Peter</string>
+		<key>budget</key>
+		<integer>2500</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 8</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>chromogenic development  print, framed</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Dog (#52)</string>
+		<key>artistFirstName</key>
+		<string>Fred</string>
+		<key>artistLastName</key>
+		<string>Reid</string>
+		<key>budget</key>
+		<integer>1300</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall Floor 7</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>ceramic raku, plexi box and stand</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Perch</string>
+		<key>artistFirstName</key>
+		<string>Michael</string>
+		<key>artistLastName</key>
+		<string>Sarich</string>
+		<key>budget</key>
+		<integer>800</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 7</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>mixed media, framed</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Ladders Cross the Blue Sky in a Wheel of Fire</string>
+		<key>artistFirstName</key>
+		<string>Stephanie</string>
+		<key>artistLastName</key>
+		<string>Scott</string>
+		<key>budget</key>
+		<integer>250</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall Floor 3</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>prismacolor and graphite on paper, framed</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Echo View</string>
+		<key>artistFirstName</key>
+		<string>Phyllis</string>
+		<key>artistLastName</key>
+		<string>Shaffer</string>
+		<key>budget</key>
+		<integer>1300</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 15</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>gouache on tinted paper, framed</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Sunset in the Buttermilks</string>
+		<key>artistFirstName</key>
+		<string>Phyllis</string>
+		<key>artistLastName</key>
+		<string>Shaffer</string>
+		<key>budget</key>
+		<integer>1300</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 3</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>gouache on tinted paper, framed</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Upper Truckee, Spring</string>
+		<key>artistFirstName</key>
+		<string>Phyllis</string>
+		<key>artistLastName</key>
+		<string>Shaffer</string>
+		<key>budget</key>
+		<integer>1300</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 2</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>gouache on tinted paper, framed</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>View from Tahoe Mountains</string>
+		<key>artistFirstName</key>
+		<string>Phyllis</string>
+		<key>artistLastName</key>
+		<string>Shaffer</string>
+		<key>budget</key>
+		<integer>1300</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 15</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>gouache on tinted paper, framed</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Hope Valley from the Homestead</string>
+		<key>artistFirstName</key>
+		<string>Phyllis</string>
+		<key>artistLastName</key>
+		<string>Shaffer</string>
+		<key>budget</key>
+		<integer>6700</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 15</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>oil on canvas, framed</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Channel</string>
+		<key>artistFirstName</key>
+		<string>James</string>
+		<key>artistLastName</key>
+		<string>Shay</string>
+		<key>budget</key>
+		<integer>8100</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 15</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>casein &amp; prismacolor on board, framed</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>The Americans Visit the Orient</string>
+		<key>artistFirstName</key>
+		<string>Mick</string>
+		<key>artistLastName</key>
+		<string>Sheldon</string>
+		<key>budget</key>
+		<integer>350</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 7</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>hand colored woodcut, framed</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Hand</string>
+		<key>artistFirstName</key>
+		<string>Brent</string>
+		<key>artistLastName</key>
+		<string>Thomas</string>
+		<key>budget</key>
+		<integer>250</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 3</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>giclee print</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Great Basin Circle (Two Nevada Cultures)</string>
+		<key>artistFirstName</key>
+		<string>Larry</string>
+		<key>artistLastName</key>
+		<string>Williamson</string>
+		<key>budget</key>
+		<integer>3000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 15</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>mixed media</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Reno Sunset</string>
+		<key>artistFirstName</key>
+		<string>Jim</string>
+		<key>artistLastName</key>
+		<string>Zlokovich</string>
+		<key>budget</key>
+		<integer>650</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 3</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>pastel on paper, framed</string>
+		<key>year</key>
+		<integer>2004</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Zoophyte</string>
+		<key>artistFirstName</key>
+		<string>Rebekah</string>
+		<key>artistLastName</key>
+		<string>Bogard</string>
+		<key>budget</key>
+		<integer>3750</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall Floor 5</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>earthenware, stand and plexiglass box</string>
+		<key>year</key>
+		<integer>2005</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Mining Road</string>
+		<key>artistFirstName</key>
+		<string>Jean</string>
+		<key>artistLastName</key>
+		<string>LeGassick</string>
+		<key>budget</key>
+		<integer>3300</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall Floor 9</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>oil on canvas mounted on board, framed</string>
+		<key>year</key>
+		<integer>2005</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Still Life with Apples</string>
+		<key>artistFirstName</key>
+		<string>Sharon</string>
+		<key>artistLastName</key>
+		<string>Maczko</string>
+		<key>budget</key>
+		<integer>2000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 8</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>watercolor on paper, framed</string>
+		<key>year</key>
+		<integer>2005</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Letter VIII</string>
+		<key>artistFirstName</key>
+		<string>Jain</string>
+		<key>artistLastName</key>
+		<string>McClain</string>
+		<key>budget</key>
+		<integer>550</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 5</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>mixed media, framed</string>
+		<key>year</key>
+		<integer>2005</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Letter XIV</string>
+		<key>artistFirstName</key>
+		<string>Jain</string>
+		<key>artistLastName</key>
+		<string>McClain</string>
+		<key>budget</key>
+		<integer>550</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 5</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>mixed media, framed</string>
+		<key>year</key>
+		<integer>2005</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Letter XV</string>
+		<key>artistFirstName</key>
+		<string>Jain</string>
+		<key>artistLastName</key>
+		<string>McClain</string>
+		<key>budget</key>
+		<integer>550</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 5</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>mixed media, framed</string>
+		<key>year</key>
+		<integer>2005</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Letter XIX</string>
+		<key>artistFirstName</key>
+		<string>Jain</string>
+		<key>artistLastName</key>
+		<string>McClain</string>
+		<key>budget</key>
+		<integer>550</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 5</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>mixed media, framed</string>
+		<key>year</key>
+		<integer>2005</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Busted in Coaldale</string>
+		<key>artistFirstName</key>
+		<string>Jeff</string>
+		<key>artistLastName</key>
+		<string>Nicholson</string>
+		<key>budget</key>
+		<integer>2700</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 8</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>watercolor, framed</string>
+		<key>year</key>
+		<integer>2005</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Old Car Hwt 50, NV Series</string>
+		<key>artistFirstName</key>
+		<string>Nolan</string>
+		<key>artistLastName</key>
+		<string>Preece</string>
+		<key>budget</key>
+		<integer>500</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 8</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>silver gelatin print, framed</string>
+		<key>year</key>
+		<integer>2005</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>August Storm, NV Series</string>
+		<key>artistFirstName</key>
+		<string>Nolan</string>
+		<key>artistLastName</key>
+		<string>Preece</string>
+		<key>budget</key>
+		<integer>500</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 8</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>silver gelatin print, framed</string>
+		<key>year</key>
+		<integer>2005</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Black Willows, NV Series</string>
+		<key>artistFirstName</key>
+		<string>Nolan</string>
+		<key>artistLastName</key>
+		<string>Preece</string>
+		<key>budget</key>
+		<integer>500</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 8</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>silver gelatin print, framed</string>
+		<key>year</key>
+		<integer>2005</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Nolangrams #014</string>
+		<key>artistFirstName</key>
+		<string>Nolan</string>
+		<key>artistLastName</key>
+		<string>Preece</string>
+		<key>budget</key>
+		<integer>500</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 9</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>silver gelatin print, framed</string>
+		<key>year</key>
+		<integer>2005</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Nolangrams #021</string>
+		<key>artistFirstName</key>
+		<string>Nolan</string>
+		<key>artistLastName</key>
+		<string>Preece</string>
+		<key>budget</key>
+		<integer>500</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall Floor 9</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>silver gelatin print, framed</string>
+		<key>year</key>
+		<integer>2005</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Nolangrams #031</string>
+		<key>artistFirstName</key>
+		<string>Nolan</string>
+		<key>artistLastName</key>
+		<string>Preece</string>
+		<key>budget</key>
+		<integer>500</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall, Floor 9</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>silver gelatin print, framed</string>
+		<key>year</key>
+		<integer>2005</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Wall  #6 Virginia City Blacksmith Shop</string>
+		<key>artistFirstName</key>
+		<string>Nolan</string>
+		<key>artistLastName</key>
+		<string>Preece</string>
+		<key>budget</key>
+		<integer>1500</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall Floor 9</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>silver gelatin print with hand-applied color, framed</string>
+		<key>year</key>
+		<integer>2005</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>CCS Portrait</string>
+		<key>artistFirstName</key>
+		<string>Jeff</string>
+		<key>artistLastName</key>
+		<string>Ross</string>
+		<key>budget</key>
+		<integer>1879</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall: Entrance to Council Chambers, 1st Floor</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>silver gelatin print, framed</string>
+		<key>year</key>
+		<integer>2009</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Donor Tree</string>
+		<key>artistFirstName</key>
+		<string>Ali</string>
+		<key>artistLastName</key>
+		<string>Sullivan</string>
+		<key>budget</key>
+		<integer>7000</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>location</key>
+		<string>Community Assistance Center</string>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string></string>
+		<key>type</key>
+		<string>Cermamic Mural</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Safety First</string>
+		<key>artistFirstName</key>
+		<string>Deon</string>
+		<key>artistLastName</key>
+		<string>Reynolds</string>
+		<key>budget</key>
+		<integer>300</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.521701999999998</real>
+		<key>location</key>
+		<string>McKinley Board Room</string>
+		<key>longitude</key>
+		<real>-119.82452000000001</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>925 Riverside Dr</string>
+		<key>type</key>
+		<string>Photograph</string>
+		<key>year</key>
+		<integer>2008</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string></string>
+		<key>artistFirstName</key>
+		<string>Erik</string>
+		<key>artistLastName</key>
+		<string>Holland</string>
+		<key>budget</key>
+		<integer>300</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.519159000000002</real>
+		<key>location</key>
+		<string>Special Events Office Idlewild</string>
+		<key>longitude</key>
+		<real>-119.835284</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1900 Idlewild Dr</string>
+		<key>type</key>
+		<string>painting</string>
+		<key>year</key>
+		<integer>2007</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Nevada Mosaic</string>
+		<key>artistFirstName</key>
+		<string>Sarah</string>
+		<key>artistLastName</key>
+		<string>Sweetwater</string>
+		<key>budget</key>
+		<integer>0</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Council Chambers</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>mosaic</string>
+		<key>year</key>
+		<integer>1990</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Reeds in a Pond</string>
+		<key>artistFirstName</key>
+		<string>Antonia</string>
+		<key>artistLastName</key>
+		<string>Lowden</string>
+		<key>budget</key>
+		<integer>0</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Hall,  Floor 2</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>weaving</string>
+		<key>year</key>
+		<integer>2005</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Untitled</string>
+		<key>artistFirstName</key>
+		<string>Jan</string>
+		<key>artistLastName</key>
+		<string>McDole</string>
+		<key>budget</key>
+		<integer>0</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526145</real>
+		<key>location</key>
+		<string>City Council Chambers</string>
+		<key>longitude</key>
+		<real>-119.812607</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>1 E. First Street</string>
+		<key>type</key>
+		<string>weaving</string>
+		<key>year</key>
+		<integer>1990</integer>
+	</dict>
+	<dict>
+		<key>artPiece</key>
+		<string>Reno</string>
+		<key>artistFirstName</key>
+		<string>Ali</string>
+		<key>artistLastName</key>
+		<string>Sullivan</string>
+		<key>budget</key>
+		<integer>600</integer>
+		<key>city</key>
+		<string>Reno</string>
+		<key>latitude</key>
+		<real>39.526064255500003</real>
+		<key>location</key>
+		<string>West Street Market</string>
+		<key>longitude</key>
+		<real>-119.815382347</real>
+		<key>placement</key>
+		<string>Interior</string>
+		<key>state</key>
+		<string>Nevada</string>
+		<key>street</key>
+		<string>148 West Street</string>
+		<key>type</key>
+		<string>Ceramic Mural</string>
+		<key>year</key>
+		<integer>2009</integer>
+	</dict>
+</array>
+</plist>
