@@ -1,15 +1,15 @@
-Number,Name,Address,DateListed,Note,Latitude,Longitude
-94-1,Giraud/Hardy House,442 Flint Street,04/05/94,,,
-96-1,Phillips Stone House,1907 So. Arlington Ave.,03/12/96,,,
-96-2,Southside School Annex,190 Liberty,04/09/96,,,
-97-1,California Building,1000 Whitmore Lane,03/03/98,,,
-98-1,Mary Sherman House,847 North Center Street,01/12/99,,,
-99-1,Lear Theater/First Church of Christ Scientist,501 Riverside,08/17/99,,,
-00-2,Washoe County Courthouse,75 Court Street,03/14/00,,,
-00-3,McKinley Park School,925 Riverside,06/27/00,,,
-00-4,El Cortez,239 West Second Street,06/27/00,,,
-00-5,Nystrom House,333 Ralston Street,06/27/00,,,
-03-1,Pearl Upson House,937 Jones Street,09/22/04,,,
-03-2,Patrick Ranch House,1225 Gordon Avenue,09/22/04,,,
-08-1,Crissie Caughlin Ranch,3636 Mayberry Drive,11/11/08,,,
-00-1,Mizpah Hotel,214 Lake Street,03/14/00,"Lost to fire October 31, 2006",,
+number,name,address,dateListed,note,latitude,longitude
+94-1,Giraud/Hardy House,442 Flint Street,04/05/94,,39.520367999999998,-119.814537
+96-1,Phillips Stone House,1907 So. Arlington Ave.,03/12/96,,39.505274999999997,-119.817657
+96-2,Southside School Annex,190 Liberty,04/09/96,,39.522212468500001,-119.80887846100001
+97-1,California Building,1000 Whitmore Lane,03/03/98,,39.522153015499747,-119.83459825972122
+98-1,Mary Sherman House,847 North Center Street,01/12/99,,39.535777694569013,-119.81489399046909
+99-1,Lear Theater/First Church of Christ Scientist,501 Riverside,08/17/99,,39.52393,-119.819647
+00-2,Washoe County Courthouse,75 Court Street,03/14/00,,39.523809,-119.812725
+00-3,McKinley Park School,925 Riverside,06/27/00,,39.521701999999998,-119.82452000000001
+00-4,El Cortez,239 West Second Street,06/27/00,,39.526504000000003,-119.817009
+00-5,Nystrom House,333 Ralston Street,06/27/00,,39.527667999999998,-119.821054
+03-1,Pearl Upson House,937 Jones Street,09/22/04,,39.522326999999997,-119.824821
+03-2,Patrick Ranch House,1225 Gordon Avenue,09/22/04,,39.512267999999999,-119.818607
+08-1,Crissie Caughlin Ranch,3636 Mayberry Drive,11/11/08,,39.506298999999999,-119.857724
+00-1,Mizpah Hotel,214 Lake Street,03/14/00,"Lost to fire October 31, 2006",39.527758347999999,-119.81036194000001
