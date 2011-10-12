@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Reno 3401 ITS </name>
+	<visibility>0</visibility>
+	<Style id="TRIANGLE_RED">
+		<IconStyle>
+			<Icon>
+				<href>http://res.mictale.com/kml/pin_green.png</href>
+				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"></hotSpot>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_cross-hairs">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_cross-hairs1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_cross-hairs_highlight1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="TRIANGLE_BLUE">
+		<IconStyle>
+			<Icon>
+				<href>http://res.mictale.com/kml/pin_green.png</href>
+				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"></hotSpot>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_CCTV">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>D:/IT Database/Project Work/2310020 NDOT 3401/Icons/CCTV.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="SIGN_FORBIDDEN">
+		<IconStyle>
+			<Icon>
+				<href>http://res.mictale.com/kml/pin_green.png</href>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"></hotSpot>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_cross-hairs0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_cross-hairs2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_cross-hairs_highlight5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_cross-hairs">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_CCTV0">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>D:/IT Database/Project Work/2310020 NDOT 3401/Icons/CCTV.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="PIN_RED">
+		<IconStyle>
+			<Icon>
+				<href>http://res.mictale.com/kml/pin_red.png</href>
+				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"></hotSpot>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_cross-hairs_highlight">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_CCTV1">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>D:/IT Database/Project Work/2310020 NDOT 3401/Icons/CCTV.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="CROSS_RED">
+		<IconStyle>
+			<Icon>
+				<href>http://res.mictale.com/kml/cross_red.png</href>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"></hotSpot>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="CIRCLE">
+		<IconStyle>
+			<Icon>
+				<href>http://res.mictale.com/kml/pin_green.png</href>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"></hotSpot>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_cross-hairs_highlight0">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_cross-hairs0">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_cross-hairs1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_cross-hairs10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_cross-hairs_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_control-panel-icon">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>D:/IT Database/Project Work/2310020 NDOT 3401/Icons/control-panel-icon.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="STAR_RED">
+		<IconStyle>
+			<Icon>
+				<href>http://res.mictale.com/kml/pin_green.png</href>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"></hotSpot>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_control-panel-icon0">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>D:/IT Database/Project Work/2310020 NDOT 3401/Icons/control-panel-icon.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_target0">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="CROSS_BLUE">
+		<IconStyle>
+			<Icon>
+				<href>http://res.mictale.com/kml/cross_blue.png</href>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"></hotSpot>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_cross-hairs1">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_control-panel-icon1">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>D:/IT Database/Project Work/2310020 NDOT 3401/Icons/control-panel-icon.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_cross-hairs2">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_control-panel-icon2">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>D:/IT Database/Project Work/2310020 NDOT 3401/Icons/control-panel-icon.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_cross-hairs3">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="DROP">
+		<IconStyle>
+			<Icon>
+				<href>http://res.mictale.com/kml/pin_green.png</href>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"></hotSpot>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_cross-hairs2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_cross-hairs8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_cross-hairs_highlight10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_cross-hairs_highlight1">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_target1">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_realestate">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_realestate</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_realestate</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_realestate">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/realestate.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_target2">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_cross-hairs4">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_target3">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_cross-hairs3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_cross-hairs7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_cross-hairs_highlight3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target4">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_cross-hairs4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_cross-hairs9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_cross-hairs_highlight0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_control-panel-icon3">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>D:/IT Database/Project Work/2310020 NDOT 3401/Icons/control-panel-icon.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="HOME">
+		<IconStyle>
+			<Icon>
+				<href>http://res.mictale.com/kml/pin_green.png</href>
+				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"></hotSpot>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_cross-hairs5">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="SIGN_WARNING">
+		<IconStyle>
+			<Icon>
+				<href>http://res.mictale.com/kml/pin_green.png</href>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"></hotSpot>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_cross-hairs_highlight2">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="BADGE">
+		<IconStyle>
+			<Icon>
+				<href>http://res.mictale.com/kml/pin_green.png</href>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"></hotSpot>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_cross-hairs5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_cross-hairs5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_cross-hairs_highlight4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_cross-hairs_highlight3">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="CAR">
+		<IconStyle>
+			<Icon>
+				<href>http://res.mictale.com/kml/pin_green.png</href>
+				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"></hotSpot>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_cross-hairs6">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="FISH">
+		<IconStyle>
+			<Icon>
+				<href>http://res.mictale.com/kml/pin_green.png</href>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"></hotSpot>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_control-panel-icon4">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>D:/IT Database/Project Work/2310020 NDOT 3401/Icons/control-panel-icon.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_cross-hairs6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_cross-hairs3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_cross-hairs_highlight2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_control-panel-icon5">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>D:/IT Database/Project Work/2310020 NDOT 3401/Icons/control-panel-icon.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="CIRCLE_RED">
+		<IconStyle>
+			<Icon>
+				<href>http://res.mictale.com/kml/pin_green.png</href>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"></hotSpot>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_cross-hairs7">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_cross-hairs_highlight4">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_cross-hairs_highlight5">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="TRIANGLE_GREEN">
+		<IconStyle>
+			<Icon>
+				<href>http://res.mictale.com/kml/pin_green.png</href>
+				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"></hotSpot>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_cross-hairs7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_cross-hairs</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_cross-hairs_highlight7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_control-panel-icon6">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>D:/IT Database/Project Work/2310020 NDOT 3401/Icons/control-panel-icon.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_target5">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_control-panel-icon7">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>D:/IT Database/Project Work/2310020 NDOT 3401/Icons/control-panel-icon.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_control-panel-icon8">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>D:/IT Database/Project Work/2310020 NDOT 3401/Icons/control-panel-icon.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="PIN_YELLOW">
+		<IconStyle>
+			<Icon>
+				<href>http://res.mictale.com/kml/pin_green.png</href>
+				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"></hotSpot>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="STAR">
+		<IconStyle>
+			<Icon>
+				<href>http://res.mictale.com/kml/pin_green.png</href>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"></hotSpot>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="STAR_GREEN">
+		<IconStyle>
+			<Icon>
+				<href>http://res.mictale.com/kml/pin_green.png</href>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"></hotSpot>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="TRIANGLE">
+		<IconStyle>
+			<Icon>
+				<href>http://res.mictale.com/kml/pin_green.png</href>
+				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"></hotSpot>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target6">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_CCTV2">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>D:/IT Database/Project Work/2310020 NDOT 3401/Icons/CCTV.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_CCTV3">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>D:/IT Database/Project Work/2310020 NDOT 3401/Icons/CCTV.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_target7">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_control-panel-icon9">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>D:/IT Database/Project Work/2310020 NDOT 3401/Icons/control-panel-icon.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_cross-hairs_highlight6">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_cross-hairs_highlight7">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_CCTV4">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>D:/IT Database/Project Work/2310020 NDOT 3401/Icons/CCTV.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_cross-hairs8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_cross-hairs6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_cross-hairs_highlight6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="STAR_BLUE">
+		<IconStyle>
+			<Icon>
+				<href>http://res.mictale.com/kml/pin_green.png</href>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"></hotSpot>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_cross-hairs8">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_cross-hairs_highlight8">
+		<IconStyle>
+			<color>ff00ff55</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="AIRPLANE">
+		<IconStyle>
+			<Icon>
+				<href>http://res.mictale.com/kml/pin_green.png</href>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"></hotSpot>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="CROSS_GREEN">
+		<IconStyle>
+			<Icon>
+				<href>http://res.mictale.com/kml/cross_green.png</href>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"></hotSpot>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="PIN_GREEN">
+		<IconStyle>
+			<Icon>
+				<href>http://res.mictale.com/kml/pin_green.png</href>
+				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"></hotSpot>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="CIRCLE_GREEN">
+		<IconStyle>
+			<Icon>
+				<href>http://res.mictale.com/kml/pin_green.png</href>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"></hotSpot>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target8">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_cross-hairs_highlight9">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_target9">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_realestate">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/realestate.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="CROSS">
+		<IconStyle>
+			<Icon>
+				<href>http://res.mictale.com/kml/cross.png</href>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"></hotSpot>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="CAMERA">
+		<IconStyle>
+			<Icon>
+				<href>http://res.mictale.com/kml/camera.png</href>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"></hotSpot>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="PIN_BLUE">
+		<IconStyle>
+			<Icon>
+				<href>http://res.mictale.com/kml/pin_green.png</href>
+				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"></hotSpot>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_cross-hairs9">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_cross-hairs10">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_cross-hairs9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_cross-hairs4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_cross-hairs_highlight9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="CIRCLE_BLUE">
+		<IconStyle>
+			<Icon>
+				<href>http://res.mictale.com/kml/pin_green.png</href>
+				<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"></hotSpot>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_cross-hairs10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_cross-hairs0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_cross-hairs_highlight8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_target10">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_cross-hairs_highlight10">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>MVDS - 125 HDs</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>MVDS 1</name>
+			<visibility>0</visibility>
+			<description>Cabinet 1</description>
+			<styleUrl>#sn_target1</styleUrl>
+			<Point>
+				<coordinates>-119.783875,39.495636,1321.7</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MVDS 2</name>
+			<visibility>0</visibility>
+			<description>Cabinet 1</description>
+			<styleUrl>#sn_target0</styleUrl>
+			<Point>
+				<coordinates>-119.7836450371346,39.49739802464343,1324.5</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MVDS 3</name>
+			<visibility>0</visibility>
+			<description>Cabinet 3</description>
+			<styleUrl>#sn_target</styleUrl>
+			<Point>
+				<coordinates>-119.78195,39.5021,1326.2</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MVDS 4</name>
+			<visibility>0</visibility>
+			<description>Cabinet 3</description>
+			<styleUrl>#sn_target10</styleUrl>
+			<Point>
+				<coordinates>-119.780205,39.50565,1332</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MVDS 5</name>
+			<visibility>0</visibility>
+			<description>Cabinet 4</description>
+			<styleUrl>#sn_target7</styleUrl>
+			<Point>
+				<coordinates>-119.78004,39.509884,1324.6</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MVDS 6</name>
+			<visibility>0</visibility>
+			<description>Cabinet 5</description>
+			<styleUrl>#sn_target6</styleUrl>
+			<Point>
+				<coordinates>-119.781235,39.513943,1327.5</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MVDS 7</name>
+			<visibility>0</visibility>
+			<description>Cabinet 6</description>
+			<styleUrl>#sn_target5</styleUrl>
+			<Point>
+				<coordinates>-119.782289274391,39.51728296909874,1329.7</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MVDS 8</name>
+			<visibility>0</visibility>
+			<description>Cabinet 7</description>
+			<styleUrl>#sn_target4</styleUrl>
+			<Point>
+				<coordinates>-119.7832102796997,39.52150328535777,1332.2</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MVDS 9</name>
+			<visibility>0</visibility>
+			<description>Cabinet 8</description>
+			<styleUrl>#sn_target3</styleUrl>
+			<Point>
+				<coordinates>-119.7834770214849,39.52577652866507,1335.7</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MVDS 10</name>
+			<visibility>0</visibility>
+			<description>Cabinet 9</description>
+			<styleUrl>#sn_target9</styleUrl>
+			<Point>
+				<coordinates>-119.7842852443488,39.52988880234906,1344.5</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MVDS 11</name>
+			<visibility>0</visibility>
+			<description>Cabinet 10</description>
+			<styleUrl>#sn_target2</styleUrl>
+			<Point>
+				<coordinates>-119.7867056791715,39.53256712083613,1347.8</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MVDS 12 &amp; 13</name>
+			<visibility>0</visibility>
+			<description>Cabinet 11</description>
+			<styleUrl>#sn_target8</styleUrl>
+			<Point>
+				<coordinates>-119.7876501760154,39.53692493280867,1338</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>CCTVs - I View 2</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>CCTV 1</name>
+			<visibility>0</visibility>
+			<description>Cabinet 3</description>
+			<styleUrl>#sn_CCTV2</styleUrl>
+			<Point>
+				<coordinates>-119.78149,39.50302,1329.9</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CCTV 2</name>
+			<visibility>0</visibility>
+			<description>Cabinet 4</description>
+			<styleUrl>#sn_CCTV0</styleUrl>
+			<Point>
+				<coordinates>-119.78004,39.509884,1324.6</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CCTV 3</name>
+			<visibility>0</visibility>
+			<description>Cabinet 7</description>
+			<styleUrl>#sn_CCTV1</styleUrl>
+			<Point>
+				<coordinates>-119.7828157540607,39.51974325925622,1342.3</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CCTV 4</name>
+			<visibility>0</visibility>
+			<description>Cabinet 9</description>
+			<styleUrl>#sn_CCTV4</styleUrl>
+			<Point>
+				<coordinates>-119.7835359675614,39.52792961637511,1338</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CCTV 5</name>
+			<visibility>0</visibility>
+			<description>Cabinet 10</description>
+			<styleUrl>#sn_CCTV</styleUrl>
+			<Point>
+				<coordinates>-119.7859628103893,39.53185475834471,1343.8</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CCTVs 6 &amp; 7</name>
+			<visibility>0</visibility>
+			<description>Cabinet 11</description>
+			<styleUrl>#sn_CCTV3</styleUrl>
+			<Point>
+				<coordinates>-119.7876501760154,39.53692493280867,1338</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>DMS -  Skyline</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>DMS - Skyline</name>
+			<visibility>0</visibility>
+			<description>DMS Cabinet 2</description>
+			<styleUrl>#msn_realestate</styleUrl>
+			<Point>
+				<coordinates>-119.7834909101403,39.4983270876665,1325.2</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>#9 Splice Locations</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>Cabinet 1 - #9 Splice Point </name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_cross-hairs7</styleUrl>
+			<Point>
+				<coordinates>-119.78404,39.493202,1319.7</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DMS Cabinet 2 - #9 Splice Point</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_cross-hairs10</styleUrl>
+			<Point>
+				<coordinates>-119.78351,39.497883,1321.3</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cabinet 3 - # 9 Splice Point</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_cross-hairs3</styleUrl>
+			<Point>
+				<coordinates>-119.7811811394911,39.50290370704794,1325.2</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cabinet 4 - #9 Splice Point</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_cross-hairs</styleUrl>
+			<Point>
+				<coordinates>-119.78002,39.51049,1323</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cabinet 5 - #9 Splice Point</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_cross-hairs6</styleUrl>
+			<Point>
+				<coordinates>-119.7811574828852,39.51394014131206,1333.3</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cabinet 6 - #9 Splice Point</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_cross-hairs2</styleUrl>
+			<Point>
+				<coordinates>-119.7816395977268,39.51845181257562,1326.1</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cabinet 7 - #9 Splice Point</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_cross-hairs4</styleUrl>
+			<Point>
+				<coordinates>-119.782812945377,39.51978334229547,1342.3</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cabinet 8 - #9 Splice Point</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_cross-hairs5</styleUrl>
+			<Point>
+				<coordinates>-119.78269,39.526894,1332</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cabinet 9 - #9 Splice Point</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_cross-hairs1</styleUrl>
+			<Point>
+				<coordinates>-119.7834369106206,39.52796025610002,1335.5</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cabinet 10 - # 9 Splice Point</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_cross-hairs0</styleUrl>
+			<Point>
+				<coordinates>-119.7860135988665,39.5318667015403,1343.8</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Salt Yard - #9 Butt Splice Point</name>
+			<visibility>0</visibility>
+			<description>4 x 72ct 
+2 x 144ct</description>
+			<styleUrl>#msn_cross-hairs9</styleUrl>
+			<Point>
+				<coordinates>-119.78521,39.53226,1348.6</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cabinet 11 - #9 Splice Point</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_cross-hairs8</styleUrl>
+			<Point>
+				<coordinates>-119.786896,39.53708,1332.5</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Cabinets - ITS/DMS</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>Cabinet 1 - 2 Det</name>
+			<visibility>0</visibility>
+			<description>MVDS 1 &amp; 2</description>
+			<styleUrl>#sn_control-panel-icon2</styleUrl>
+			<Point>
+				<coordinates>-119.78414,39.49356,1323.1</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cabinet 2 - DMS</name>
+			<visibility>0</visibility>
+			<description>Skyline DMS</description>
+			<styleUrl>#sn_control-panel-icon4</styleUrl>
+			<Point>
+				<coordinates>-119.78351,39.497883,1321.3</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cabinet 3 - 2 Det &amp; 1 CCTV</name>
+			<visibility>0</visibility>
+			<description>MVDS 3 &amp; 4
+CCTV 1</description>
+			<styleUrl>#sn_control-panel-icon9</styleUrl>
+			<Point>
+				<coordinates>-119.7811811394911,39.50290370704794,1325.2</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cabinet 4 - 1 Det &amp; 1 CCTV</name>
+			<visibility>0</visibility>
+			<description>MVDS 5
+CCTV 2
+</description>
+			<styleUrl>#sn_control-panel-icon7</styleUrl>
+			<Point>
+				<coordinates>-119.78002,39.51049,1323</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cabinet 5 - 1 Det</name>
+			<visibility>0</visibility>
+			<description>MVDS 6</description>
+			<styleUrl>#sn_control-panel-icon0</styleUrl>
+			<Point>
+				<coordinates>-119.78114,39.513943,1333.3</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cabinet 6 - 1 Det</name>
+			<visibility>0</visibility>
+			<description>MVDS 7</description>
+			<styleUrl>#sn_control-panel-icon</styleUrl>
+			<Point>
+				<coordinates>-119.781845,39.518192,1327</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cabinet 7 - 1 Det &amp; 1 CCTV</name>
+			<visibility>0</visibility>
+			<description>MVDS 8
+CCTV 3
+</description>
+			<styleUrl>#sn_control-panel-icon6</styleUrl>
+			<Point>
+				<coordinates>-119.782812945377,39.51978334229547,1342.3</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cabinet 8 - 1 Det</name>
+			<visibility>0</visibility>
+			<description>MVDS 9</description>
+			<styleUrl>#sn_control-panel-icon5</styleUrl>
+			<Point>
+				<coordinates>-119.7830232564348,39.52651165947171,1331.6</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cabinet 9 - 1 Det &amp; 1 CCTV</name>
+			<visibility>0</visibility>
+			<description>MVDS 10
+CCTV 4</description>
+			<styleUrl>#sn_control-panel-icon3</styleUrl>
+			<Point>
+				<coordinates>-119.78341,39.527958,1335.5</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cabinet 10 - 1 Det &amp; 1 CCTV</name>
+			<visibility>0</visibility>
+			<description>MVDS 11
+CCTV 5</description>
+			<styleUrl>#sn_control-panel-icon8</styleUrl>
+			<Point>
+				<coordinates>-119.7860292505591,39.5318511381823,1343.8</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cabinet 11</name>
+			<visibility>0</visibility>
+			<description>MVDS 12 &amp; 13
+CCTV 6 &amp; 7
+
+</description>
+			<styleUrl>#sn_control-panel-icon1</styleUrl>
+			<Point>
+				<coordinates>-119.7875985351984,39.53685539220584,1338</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
