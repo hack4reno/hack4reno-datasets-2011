@@ -1,0 +1,29 @@
+route_id,route_short_name,route_long_name,route_desc,route_type
+2-37,2,"Ninth / Silverada / RTC CENT PLAZA",,3
+2S-37,2S,"Ninth / Silverada",,3
+4-37,4,"West Seventh",,3
+5-37,5,"Sutro / Sun Valley",,3
+6-37,6,"Arlington / Moana",,3
+7-37,7,"Stead",,3
+9-37,9,"Kietzke / Neil",,3
+11-37,11,"Fourth / Prater",,3
+13-37,13,"VA Hospital / Grove",,3
+14-37,14,"East Mill",,3
+15-37,15,"Sutro / Wedekind / TMCC",,3
+16-37,16,"Idlewild",,3
+17-37,17,"Lemmon Valley",,3
+18-37,18,"Glendale / Greg",,3
+19-37,19,"Wells / Airport",,3
+21-37,21,"Sparks Marina",,3
+25-37,25,"East Prater / Baring",,3
+26-37,26,"East Prater",,3
+28-37,28,"Sparks Industrial",,3
+3CC-37,3CC,"Kings Row / Sky Mtn (counterclockwise)",,3
+3CL-37,3CL,"Sky Mtn / Kings Row (clockwise)",,3
+54-37,54,"Mira Loma",,3
+56-37,56,"South Meadows",,3
+57-37,57,"Damonte Ranch",,3
+CNCT-37,CNCT,"RTC CONNECT",,3
+INTC-37,INTC,"RTC INTERCITY Reno/Carson City",,3
+RAPD-37,RAPD,"RTC RAPID",,3
+SS-37,SS,"RTC SIERRA SPIRIT",,3

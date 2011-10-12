@@ -1,0 +1,4 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+1105-1105-Weekday-01,1,1,1,1,1,0,0,20110919,20120511
+1105-1105-Saturday-01,0,0,0,0,0,1,0,20110924,20120512
+1105-1105-Sunday-01,0,0,0,0,0,0,1,20110925,20120506
