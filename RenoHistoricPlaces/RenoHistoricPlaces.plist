@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>address</key>
+		<string>442 Flint Street</string>
+		<key>dateListed</key>
+		<date>1994-04-05T07:00:00Z</date>
+		<key>latitude</key>
+		<real>39.520367999999998</real>
+		<key>longitude</key>
+		<real>-119.814537</real>
+		<key>name</key>
+		<string>Giraud/Hardy House</string>
+		<key>note</key>
+		<string></string>
+		<key>number</key>
+		<string>94-1</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>1907 So. Arlington Ave.</string>
+		<key>dateListed</key>
+		<date>1996-03-12T08:00:00Z</date>
+		<key>latitude</key>
+		<real>39.505274999999997</real>
+		<key>longitude</key>
+		<real>-119.817657</real>
+		<key>name</key>
+		<string>Phillips Stone House</string>
+		<key>note</key>
+		<string></string>
+		<key>number</key>
+		<string>96-1</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>190 Liberty</string>
+		<key>dateListed</key>
+		<date>1996-04-09T07:00:00Z</date>
+		<key>latitude</key>
+		<real>39.522212468500001</real>
+		<key>longitude</key>
+		<real>-119.80887846100001</real>
+		<key>name</key>
+		<string>Southside School Annex</string>
+		<key>note</key>
+		<string></string>
+		<key>number</key>
+		<string>96-2</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>1000 Whitmore Lane</string>
+		<key>dateListed</key>
+		<date>1998-03-03T08:00:00Z</date>
+		<key>latitude</key>
+		<real>39.522153015499747</real>
+		<key>longitude</key>
+		<real>-119.83459825972122</real>
+		<key>name</key>
+		<string>California Building</string>
+		<key>note</key>
+		<string></string>
+		<key>number</key>
+		<string>97-1</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>847 North Center Street</string>
+		<key>dateListed</key>
+		<date>1999-01-12T08:00:00Z</date>
+		<key>latitude</key>
+		<real>39.535777694569013</real>
+		<key>longitude</key>
+		<real>-119.81489399046909</real>
+		<key>name</key>
+		<string>Mary Sherman House</string>
+		<key>note</key>
+		<string></string>
+		<key>number</key>
+		<string>98-1</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>501 Riverside</string>
+		<key>dateListed</key>
+		<date>1999-08-17T07:00:00Z</date>
+		<key>latitude</key>
+		<real>39.52393</real>
+		<key>longitude</key>
+		<real>-119.819647</real>
+		<key>name</key>
+		<string>Lear Theater/First Church of Christ Scientist</string>
+		<key>note</key>
+		<string></string>
+		<key>number</key>
+		<string>99-1</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>75 Court Street</string>
+		<key>dateListed</key>
+		<date>2000-03-14T08:00:00Z</date>
+		<key>latitude</key>
+		<real>39.523809</real>
+		<key>longitude</key>
+		<real>-119.812725</real>
+		<key>name</key>
+		<string>Washoe County Courthouse</string>
+		<key>note</key>
+		<string></string>
+		<key>number</key>
+		<string>00-2</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>925 Riverside</string>
+		<key>dateListed</key>
+		<date>2000-06-27T07:00:00Z</date>
+		<key>latitude</key>
+		<real>39.521701999999998</real>
+		<key>longitude</key>
+		<real>-119.82452000000001</real>
+		<key>name</key>
+		<string>McKinley Park School</string>
+		<key>note</key>
+		<string></string>
+		<key>number</key>
+		<string>00-3</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>239 West Second Street</string>
+		<key>dateListed</key>
+		<date>2000-06-27T07:00:00Z</date>
+		<key>latitude</key>
+		<real>39.526504000000003</real>
+		<key>longitude</key>
+		<real>-119.817009</real>
+		<key>name</key>
+		<string>El Cortez</string>
+		<key>note</key>
+		<string></string>
+		<key>number</key>
+		<string>00-4</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>333 Ralston Street</string>
+		<key>dateListed</key>
+		<date>2000-06-27T07:00:00Z</date>
+		<key>latitude</key>
+		<real>39.527667999999998</real>
+		<key>longitude</key>
+		<real>-119.821054</real>
+		<key>name</key>
+		<string>Nystrom House</string>
+		<key>note</key>
+		<string></string>
+		<key>number</key>
+		<string>00-5</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>937 Jones Street</string>
+		<key>dateListed</key>
+		<date>2004-09-22T07:00:00Z</date>
+		<key>latitude</key>
+		<real>39.522326999999997</real>
+		<key>longitude</key>
+		<real>-119.824821</real>
+		<key>name</key>
+		<string>Pearl Upson House</string>
+		<key>note</key>
+		<string></string>
+		<key>number</key>
+		<string>03-1</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>1225 Gordon Avenue</string>
+		<key>dateListed</key>
+		<date>2004-09-22T07:00:00Z</date>
+		<key>latitude</key>
+		<real>39.512267999999999</real>
+		<key>longitude</key>
+		<real>-119.818607</real>
+		<key>name</key>
+		<string>Patrick Ranch House</string>
+		<key>note</key>
+		<string></string>
+		<key>number</key>
+		<string>03-2</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>3636 Mayberry Drive</string>
+		<key>dateListed</key>
+		<date>2008-11-11T08:00:00Z</date>
+		<key>latitude</key>
+		<real>39.506298999999999</real>
+		<key>longitude</key>
+		<real>-119.857724</real>
+		<key>name</key>
+		<string>Crissie Caughlin Ranch</string>
+		<key>note</key>
+		<string></string>
+		<key>number</key>
+		<string>08-1</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>214 Lake Street</string>
+		<key>dateListed</key>
+		<date>2000-03-14T08:00:00Z</date>
+		<key>latitude</key>
+		<real>39.527758347999999</real>
+		<key>longitude</key>
+		<real>-119.81036194000001</real>
+		<key>name</key>
+		<string>Mizpah Hotel</string>
+		<key>note</key>
+		<string>Lost to fire October 31, 2006</string>
+		<key>number</key>
+		<string>00-1</string>
+	</dict>
+</array>
+</plist>
