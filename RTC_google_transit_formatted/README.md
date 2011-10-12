@@ -47,15 +47,15 @@ exception_type (an exception code tied to this date for the defined service)
 **Sourced From:** _RTC_  
 
 **Data Summary:**  
-A list of fares, prices, and transfer data associated with them
+A list of fares, prices, and transfer data associated with them  
 
 **Data Columns:**  
 fare_id (unique identifier for fare)  
 price (price in format '#.##')  
-currency_type (string representing currency type. Ex: "USD")
-payment_method (code for payment method)
+currency_type (string representing currency type. Ex: "USD")  
+payment_method (code for payment method)  
 transfers (1/0 boolean for transfers???)  
-transfer_duration (amount of time transfer is valid in seconds???)
+transfer_duration (amount of time transfer is valid in seconds???)  
 
 
   ---------------------------------------
@@ -67,8 +67,8 @@ transfer_duration (amount of time transfer is valid in seconds???)
 A list that ties a route_id to a fare_id  
 
 **Data Summary:**  
-fare_id  (unique identifier for fare)
-route_id  (unique identifier for route)
+fare_id  (unique identifier for fare)  
+route_id  (unique identifier for route)  
 origin_id  (always blank)  
 destination_id  (always blank)  
 contains_id  (always blank)  
@@ -97,7 +97,7 @@ route_type  (always same = '3')
 A list of stops with what times they arrive and depart at  
 
 **Data Summary:**  
-trip_id  (unique identifer for trip)
+trip_id  (unique identifer for trip)  
 arrival_time  (time in hh:mm:ss)  
 departure_time  (time in hh:mm:ss)  
 stop_id  (unique identifer of stop)  
@@ -117,8 +117,8 @@ A list of stops and geo location info for them
 stop_id (unique identifer for stop)  
 stop_name (description of stop)  
 stop_desc (always blank)  
-stop_lat (Latitude location of stop)
-stop_lon (Longitude location of stop)
+stop_lat (Latitude location of stop)  
+stop_lon (Longitude location of stop)  
 stop_street (always blank)  
 stop_city (always blank)  
 stop_region (always blank)  
@@ -132,7 +132,7 @@ zone_id (always blank)
 **Sourced From:** _RTC_  
 
 **Data Summary:**  
-A link between route, service, and trip (association table)
+A link between route, service, and trip (association table)  
 
 **Data Summary:**  
 route_id  (unique identifer for route)  
