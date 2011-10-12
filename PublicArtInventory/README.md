@@ -2,5 +2,7 @@ PublicArtInventory.plist is an XML Property List. It contains a list of dictiona
 
 On iOS 5, you can read in the file with the following code snippet:
 
-NSURL *fileURL = [[NSBundle mainBundle] URLForResource:@"PublicArtInventory" withExtension:@"csv"];
+NSURL *fileURL = [[NSBundle mainBundle] URLForResource:@"PublicArtInventory" withExtension:@"plist"];
 NSArray *artPieces = [NSArray arrayWithContentsOfURL:fileURL];
+
+This will result in an array of dictionaries.
