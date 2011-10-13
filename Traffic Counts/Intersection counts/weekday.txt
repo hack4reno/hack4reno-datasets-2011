@@ -1,0 +1,192 @@
+Arrowcreek Parkway & Damonte Parkway2.xls
+Baring_Goldy.xls
+Center-8th_20-Jun-2006.xls
+Center-Maple_20-Jun-2006.xls
+Center_8th.xls
+Center_Maple.xls
+Center_Mary.xls
+Clear Acre Lane & Scottsdale2.xls
+Clear Acre Lane & Sun Valley Drive2.xls
+Clear Acre_Selmi2.xls
+Clear Acre_US395SB2.xls
+Damonte Ranch Parkway & 395 East2.xls
+Damonte Ranch Parkway & 395 West2.xls
+E Plumb Lane & Termina Way2.xls
+E Plumb Lane & US 395 (Durham Drive)2.xls
+E Plumb Lane & US 395(Matley Lane)2.xls
+E Prater Way & I Street2.xls
+Friday
+Harvard Way & E Plumb Lane2.xls
+Howard_E Prater2.xls
+I-80-Virginia_counts_June2006.zip
+Kietzke-Plumb2.xls
+Kietzke_FireCreek2.xls
+Kietzke_Gentry.xls
+Kietzke_Redfield2.xls
+list.txt
+Longley_Huffaker-Colbert2.xls
+Longley_Maestro2.xls
+Longley_Patriot.xls
+Longley_Peckham.xls
+Longley_Rock.xls
+Mae Anne Ave & Coit Plaza2.xls
+Mae Anne Avenue & Sierra Highlands Drive2.xls
+Mae Anne_Robb2.xls
+McCarran _Sutro2.xls
+McCarran_4th Street2.xls
+McCarran_7th.xls
+McCarran_80EB2.xls
+McCarran_Baring3.xls
+McCarran_El Rancho2.xls
+McCarran_Glendale2.xls
+McCarran_GreenBrae2.xls
+McCarran_Greg2.xls
+McCarran_I80N2.xls
+McCarran_I80S.xls
+McCarran_Kietzke2.xls
+McCarran_Lakeside.xls
+McCarran_Lincoln2.xls
+McCarran_Longley.xls
+McCarran_MaeAnne2.xls
+McCarran_MiraLoma.xls
+McCarran_Neil.xls
+McCarran_Nichols2.xls
+McCarran_Northtowne2.xls
+McCarran_Nugget2.xls
+McCarran_Pembroke-Rock.xls
+McCarran_Plumas.xls
+McCarran_Prater2.xls
+McCarran_Probasco2.xls
+McCarran_Pyramid2.xls
+McCarran_RioPoco.xls
+McCarran_Rock2.xls
+McCarran_SierraHighlands.xls
+McCarran_Smithridge.xls
+McCarran_Sullivan2.xls
+McCarran_Talbot2.xls
+McCarran_Victorian2.xls
+McCarran_York2.xls
+Moana_395NB.xls
+Moana_Neil.xls
+Moanna_395SB.xls
+N McCarran & Clear Acre Lane2.xls
+N McCarran & US 395 East2.xls
+N McCarran & US 395 West2.xls
+N Truckee_Baring2.xls
+Neil_US395SB2.xls
+Neil_US396NB2.xls
+NMcCarran_NVirginia.xls
+North Los Altos Parkway & Vista Boulevard2.xls
+Old Virginia Road & Damonte Ranch Road2.xls
+Peckham_Baker.xls
+Plumb-Harvard2.xls
+Plumb-Harvard2_11-Apr-2006.xls
+Plumb-Terminal2.xls
+Plumb-US395NB(Durham)2.xls
+Plumb-US395SB(Matley)2.xls
+Plumb_Kirman.xls
+Plumb_Locust2.xls
+Prater_Pullman.xls
+Pyramid-LaPosada_22-Mar-2006.xls
+Pyramid-LosAltos_05-April-2006.xls
+Pyramid-Sparks_22-Mar-2006.xls
+Pyramid_C Street2.xls
+Pyramid_Disc2.xls
+Pyramid_GreenBrae2.xls
+Pyramid_I80Ramps2.xls
+Pyramid_La Posada.xls
+Pyramid_Los Altos.xls
+Pyramid_Nugget2.xls
+Pyramid_Oddie3.xls
+Pyramid_Prater3.xls
+Pyramid_Queen.xls
+Pyramid_Roberta2.xls
+Pyramid_Sparks.xls
+Pyramid_Victorian2.xls
+Pyramid_York2.xls
+Rock Boulevard and York Way2.xls
+Rock_C.xls
+Rock_Freeport.xls
+Rock_Glendale.xls
+Rock_Greg.xls
+Rock_Hymer.xls
+Rock_I-80WB.xls
+Rock_I80EB.xls
+Rock_Oddie.xls
+Rock_Prater.xls
+Rock_Victorian.xls
+Rock_York.xls
+S Kietzke Lane & E 2nd Street2.xls
+S Kietzke Lane & E Packham Lane2.xls
+S Kietzke Lane & E Plumb Lane2.xls
+S Kietzke Lane & Grove Street2.xls
+S kietzke Lane & Mill Street2.xls
+S Kietzke Lane & S Moana Lane2.xls
+S Kietzke Lane & Vassar Street2.xls
+S Virginia Street & Damonte Parkway2.xls
+Sierra-8th_20-Jun-2006.xls
+Sierra-Maple_20-Jun-2006.xls
+Sierra_8th.xls
+Sierra_9th.xls
+Sierra_Maple.xls
+SMcCarran_SVirginia.xls
+South Los Altos Parkway & Vista Boulevard2.xls
+South Meadows Parkway & 395 North2.xls
+South Meadows Parkway & 395 South2.xls
+South Meadows Parkway & Double R Boulevard3.xls
+South Meadows Parkway & Gateway Drive2.xls
+Sparks_Baring.xls
+Sparks_Disc.xls
+Sparks_Greg.xls
+Sparks_I80EB.xls
+Sparks_I80WB.xls
+Sparks_Lincoln.xls
+Sparks_Los Altos.xls
+Sparks_OCallaghan.xls
+Sparks_Prater.xls
+Sparks_Shadow.xls
+Sun Valley & 2nd Avenue.xls
+Sun Valley Drive & 4th Avenue2.xls
+Sun Valley Drive & 5th Avenue3.xls
+Sun Valley Drive & 7th Avenue3.xls
+Virginia-8th_20-Jun-2006.xls
+Virginia-Maple_20-Jun-2006.xls
+Virginia_8th.xls
+Virginia_9th.xls
+Virginia_Atlantis2.xls
+Virginia_Foothill_Meadows.xls
+Virginia_Gentry.xls
+Virginia_GreenAcres.xls
+Virginia_Grove2.xls
+Virginia_Kietzke.xls
+Virginia_Longley2.xls
+Virginia_Maple.xls
+Virginia_Mary-Center2.xls
+Virginia_MeadowoodCircle2.xls
+Virginia_MeadowoodWay2.xls
+Virginia_Moana.xls
+Virginia_Mt.Rose-Holcomb2.xls
+Virginia_Neil.xls
+Virginia_OrchardPlz-ParkLn.xls
+Virginia_Patriot.xls
+Virginia_Peckham.xls
+Virginia_Peppermill.xls
+Virginia_Plumb.xls
+Virginia_Regency.xls
+Virginia_Sierra-Comstock.xls
+Virginia_SierraAirCenter2.xls
+Virginia_US3952.xls
+Virginia_US395END.xls
+Virginia_Vassar2.xls
+Virginia_Wells.xls
+Virginia_Winco.xls
+Vista Bouevard & Disc Drive2.xls
+Vista_Baring.xls
+Vista_Bierley.xls
+Vista_I80EB.xls
+Vista_I80WB.xls
+Vista_Prater.xls
+Vista_UPS.xls
+Vista_Whitewood.xls
+weekday.txt
+Weekend Counts

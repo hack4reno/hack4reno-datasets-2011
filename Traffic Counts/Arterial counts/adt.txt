@@ -1,0 +1,33 @@
+4th_w_o_Arlington.xls
+adt.txt
+ADT_Graphs.xls
+Damonte Ranch_e_o_Virginia.xls
+Data only
+Glendale_btw_Galletti_and_21st.xls
+Kietzke_btw_Gentry_and_Moana.xls
+Kietzke_s_o_2nd.xls
+Liberty_btw_Virginia_and_Center.xls
+Los Altos_btw_Sparks_and_Vista.xls
+McCarran_btw_Mira Loma_and_Pembroke.xls
+McCarran_btw_Pyramid_and_Rock.xls
+McCarran_btw_Victorian_and_Nichols.xls
+McCarran_n_o_Mayberry.xls
+McCarran_w_o_Plumas.xls
+Mill_btw_Kietzke_and_US 395 SB.xls
+Moana_btw_Kietzke_and_US 395 SB.xls
+Peak Periods.xls
+Plumb_btw_Arlington_and_Plumas.xls
+Plumb_btw_Harvard_and_US 395 SB.xls
+Pyramid_btw_Queen Way_and_McCarran.xls
+Pyramid_s_o_Prater.xls
+Rock_btw_Hymer_and_Glendale.xls
+Sparks_btw_I 80 WB_and_Lincoln.xls
+Stead Blvd_n_o_US 395 NWB.xls
+Sun Valley_s_o_1st.xls
+Virginia_btw_2nd_and_1st.xls
+Virginia_btw_7th_and_6th.xls
+Virginia_btw_8th_and_9th.xls
+Virginia_btw_Arroyo_and_Pueblo.xls
+Virginia_btw_Gentry_and_Moana.xls
+Virginia_btw_US 395 SB_and_Holcomb Ln.xls
+Vista_s_o_Baring.xls
